@@ -1,0 +1,14 @@
+# ===== 公開しないファイル（消さないでください）=====
+# APIキー（パスワードと同じくらい大切）
+secrets.env
+*.env
+# 実行ログ・一時ファイル
+tools/rakuten-lp/logs/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# パソコンで使う起動用ファイル（サイトには不要）
+*.bat
+Mac用/
+はじめにお読みください.txt
