@@ -519,12 +519,13 @@
       "title": "ケラスターゼ ユイル クロノロジスト｜使い方・購入形態を確認",
       "status": "published",
       "created_at": "2026-09-25T00:40:13+09:00",
-      "updated_at": "2026-10-11T10:00:15+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-11T10:00:15+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 0,
       "related": [
+        "../../../products/haircare/moroccanoil-10000012/",
         "../../../products/haircare/sakurap-10005223/",
         "../../../products/haircare/beautypark2017-10002719/"
       ],
@@ -584,16 +585,16 @@
       "title": "ハグモッチ抱き枕のサイズ・高さ調整・手入れを確認",
       "status": "published",
       "created_at": "2026-09-25T00:42:38+09:00",
-      "updated_at": "2026-10-11T10:00:16+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-11T10:00:16+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 4,
       "related": [
-        "../../../products/health/fancl-shop-10009163/",
         "../../../products/health/bayeryakuhin-10000008/",
-        "../../../products/health/bambi-water-10000052/",
-        "../../../products/health/shimin2-10000782/"
+        "../../../products/health/mariness-10000000/",
+        "../../../products/health/shimin2-10000782/",
+        "../../../products/health/life-rhythm-10000594/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -716,7 +717,7 @@
       "title": "はぐくみ太郎 こっそり鉄分｜使い方と原材料",
       "status": "published",
       "created_at": "2026-09-26T10:02:16+09:00",
-      "updated_at": "2026-10-07T10:00:04+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-07T10:00:04+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
@@ -724,8 +725,8 @@
       "related": [
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/",
-        "../../../products/baby/kaitekistore-10000835/"
+        "../../../products/baby/plusiine-10001461/",
+        "../../../products/baby/netbaby-10028506/"
       ],
       "review_changes": 5,
       "missing_count": 0,
@@ -914,7 +915,7 @@
       "title": "スーツケースのサイズ選び｜容量・機内持ち込み条件を確認",
       "status": "published",
       "created_at": "2026-09-26T10:05:39+09:00",
-      "updated_at": "2026-10-07T10:00:08+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-07T10:00:08+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
@@ -923,7 +924,7 @@
         "../../../products/fashion/excitech-10000320/",
         "../../../products/fashion/linoulu-10000507/",
         "../../../products/fashion/b4u-shop-10002773/",
-        "../../../products/fashion/sockkobe-10011322/"
+        "../../../products/fashion/auc-whiteangel-10000000/"
       ],
       "review_changes": 2,
       "missing_count": 0,
@@ -1005,14 +1006,15 @@
       "title": "ロアザオイルの香り・用途・容量を購入前に確認",
       "status": "published",
       "created_at": "2026-09-26T10:08:48+09:00",
-      "updated_at": "2026-10-07T10:00:09+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-07T10:00:09+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 0,
       "related": [
         "../../../products/haircare/sakurap-10005223/",
-        "../../../products/haircare/kerastase-varie-10000005/"
+        "../../../products/haircare/kerastase-varie-10000005/",
+        "../../../products/haircare/moroccanoil-10000012/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -1069,16 +1071,16 @@
       "title": "オムロン HCR-7104 上腕式血圧計｜腕周や記録件数を確認",
       "status": "published",
       "created_at": "2026-09-26T10:09:46+09:00",
-      "updated_at": "2026-10-07T10:00:12+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-07T10:00:12+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 0,
       "related": [
         "../../../products/health/luckyspread-10000001/",
-        "../../../products/health/fancl-shop-10009163/",
         "../../../products/health/bayeryakuhin-10000008/",
-        "../../../products/health/bambi-water-10000052/"
+        "../../../products/health/mariness-10000000/",
+        "../../../products/health/shimin2-10000782/"
       ],
       "review_changes": 2,
       "missing_count": 0,
@@ -1203,7 +1205,7 @@
       "title": "NOVUSノウス ベビーハイチェア｜対象年齢と高さ調節を確認",
       "status": "published",
       "created_at": "2026-09-26T10:11:57+09:00",
-      "updated_at": "2026-10-07T10:00:14+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-07T10:00:14+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -1212,7 +1214,7 @@
         "../../../products/baby/high-high-10000174/",
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/"
+        "../../../products/baby/plusiine-10001461/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -1334,7 +1336,7 @@
       "title": "超軽量スーツケースのサイズ・容量比較｜拡張機能と機内持ち込み条件",
       "status": "published",
       "created_at": "2026-09-26T10:14:18+09:00",
-      "updated_at": "2026-10-07T10:00:17+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-07T10:00:17+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
@@ -1343,7 +1345,7 @@
         "../../../products/fashion/euphoric-10000029/",
         "../../../products/fashion/b4u-shop-10002773/",
         "../../../products/fashion/linoulu-10000507/",
-        "../../../products/fashion/sockkobe-10011322/"
+        "../../../products/fashion/auc-whiteangel-10000000/"
       ],
       "review_changes": 2,
       "missing_count": 0,
@@ -2331,7 +2333,7 @@
       "title": "ジオピロー ベビー枕｜サイズ・洗い方・使用前の確認点",
       "status": "published",
       "created_at": "2026-09-28T10:06:52+09:00",
-      "updated_at": "2026-10-09T10:00:08+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-09T10:00:08+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
@@ -2340,7 +2342,7 @@
         "../../../products/baby/baby-alice-10006664/",
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/"
+        "../../../products/baby/plusiine-10001461/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -2464,16 +2466,16 @@
       "title": "ビーレジェンドWPCプロテイン900g｜フレーバーと商品情報",
       "status": "published",
       "created_at": "2026-09-28T10:09:06+09:00",
-      "updated_at": "2026-10-12T10:14:21+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-09T10:00:12+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 0,
       "related": [
+        "../../../products/food/toyomarket-10000287/",
         "../../../products/health/valx-10000057/",
         "../../../products/health/nippon-shinyaku-shop-10000446/",
-        "../../../products/food/realstyle4u-10000903/",
-        "../../../products/health/luckyspread-10000001/"
+        "../../../products/food/realstyle4u-10000903/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -2663,16 +2665,16 @@
       "title": "突っ張り式ベビーゲート｜設置幅と階段上の確認点",
       "status": "published",
       "created_at": "2026-09-28T10:12:42+09:00",
-      "updated_at": "2026-10-09T10:00:15+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-09T10:00:15+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 0,
       "related": [
+        "../../../products/baby/plusiine-10001461/",
         "../../../products/baby/kaitekistore-10000835/",
         "../../../products/baby/babytown-10023284/",
-        "../../../products/baby/netbaby-10028658/",
-        "../../../products/baby/dwinguler2023-10000000/"
+        "../../../products/baby/netbaby-10028658/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -2729,8 +2731,8 @@
       "title": "ワイヤレスイヤホンBluetooth6.0｜再生時間と残量表示を確認",
       "status": "published",
       "created_at": "2026-09-29T10:02:24+09:00",
-      "updated_at": "2026-10-08T10:14:22+09:00",
-      "last_checked_at": "2026-10-04T10:00:03+09:00",
+      "updated_at": "2026-10-13T10:00:03+09:00",
+      "last_checked_at": "2026-10-13T10:00:03+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 0,
@@ -2792,8 +2794,8 @@
       "title": "綿コットンのハイウエストショーツ｜サイズ・仕様の確認ポイント",
       "status": "published",
       "created_at": "2026-09-29T10:03:35+09:00",
-      "updated_at": "2026-10-05T10:15:54+09:00",
-      "last_checked_at": "2026-10-04T10:00:06+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
+      "last_checked_at": "2026-10-13T10:00:05+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 2,
@@ -2801,7 +2803,7 @@
         "../../../products/fashion/sockkobe-10011322/",
         "../../../products/fashion/b4u-shop-10002773/",
         "../../../products/fashion/euphoric-10000029/",
-        "../../../products/fashion/excitech-10000320/"
+        "../../../products/fashion/auc-whiteangel-10000000/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -2857,9 +2859,9 @@
       ],
       "image_count": 3,
       "title": "バンビウォーターのプロテインシェイク｜飲み方・内容量を確認",
-      "status": "published",
+      "status": "excluded",
       "created_at": "2026-09-29T10:04:35+09:00",
-      "updated_at": "2026-10-11T10:19:20+09:00",
+      "updated_at": "2026-10-13T10:00:06+09:00",
       "last_checked_at": "2026-10-04T10:00:07+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
@@ -2871,7 +2873,8 @@
         "../../../products/health/toyomarket-10000142/"
       ],
       "review_changes": 4,
-      "missing_count": 1
+      "missing_count": 2,
+      "reason": "取り下げ: 楽天市場で商品が見つからない（販売終了の可能性）"
     },
     "cicib:10002043": {
       "item_code": "cicib:10002043",
@@ -2922,9 +2925,9 @@
       ],
       "image_count": 2,
       "title": "CICIBELLA 3D立体マスク｜サイズ・素材・内容量を確認",
-      "status": "published",
+      "status": "excluded",
       "created_at": "2026-09-29T10:05:49+09:00",
-      "updated_at": "2026-10-12T10:14:21+09:00",
+      "updated_at": "2026-10-13T10:00:07+09:00",
       "last_checked_at": "2026-10-04T10:00:10+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
@@ -2936,7 +2939,8 @@
         "../../../products/living/t-interior-10000256/"
       ],
       "review_changes": 4,
-      "missing_count": 1
+      "missing_count": 2,
+      "reason": "取り下げ: 楽天市場で商品が見つからない（販売終了の可能性）"
     },
     "fancl-shop:10009163": {
       "item_code": "fancl-shop:10009163",
@@ -2987,9 +2991,9 @@
       ],
       "image_count": 2,
       "title": "Mama Lula 葉酸&鉄プラス｜成分量・目安量・注意点",
-      "status": "published",
+      "status": "excluded",
       "created_at": "2026-09-29T10:07:00+09:00",
-      "updated_at": "2026-10-05T10:15:54+09:00",
+      "updated_at": "2026-10-13T10:00:09+09:00",
       "last_checked_at": "2026-10-04T10:00:12+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
@@ -3001,7 +3005,8 @@
         "../../../products/health/shimin2-10000782/"
       ],
       "review_changes": 3,
-      "missing_count": 1
+      "missing_count": 2,
+      "reason": "取り下げ: 楽天市場で商品が見つからない（販売終了の可能性）"
     },
     "baby-alice:10006664": {
       "item_code": "baby-alice:10006664",
@@ -3053,8 +3058,8 @@
       "title": "エスメラルダのベビー枕｜対象年齢・高さ調整・洗濯方法",
       "status": "published",
       "created_at": "2026-09-29T10:08:11+09:00",
-      "updated_at": "2026-10-06T10:17:20+09:00",
-      "last_checked_at": "2026-10-04T10:00:14+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
+      "last_checked_at": "2026-10-13T10:00:09+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 0,
@@ -3062,7 +3067,7 @@
         "../../../products/baby/sanho-store-10000068/",
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/"
+        "../../../products/baby/plusiine-10001461/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -3120,8 +3125,8 @@
       "title": "折りたたみ収納ボックスの寸法・5面開き・キャスターを確認",
       "status": "published",
       "created_at": "2026-09-29T10:09:22+09:00",
-      "updated_at": "2026-10-04T10:00:15+09:00",
-      "last_checked_at": "2026-10-04T10:00:15+09:00",
+      "updated_at": "2026-10-13T10:00:10+09:00",
+      "last_checked_at": "2026-10-13T10:00:10+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 4,
@@ -3184,9 +3189,9 @@
       ],
       "image_count": 2,
       "title": "VITAS マルチビタミン120粒｜成分・目安量を確認",
-      "status": "published",
+      "status": "excluded",
       "created_at": "2026-09-29T10:10:44+09:00",
-      "updated_at": "2026-10-04T10:15:00+09:00",
+      "updated_at": "2026-10-13T10:00:12+09:00",
       "last_checked_at": "2026-10-04T10:00:17+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -3198,7 +3203,8 @@
         "../../../products/health/luckyspread-10000001/"
       ],
       "review_changes": 3,
-      "missing_count": 1
+      "missing_count": 2,
+      "reason": "取り下げ: 楽天市場で商品が見つからない（販売終了の可能性）"
     },
     "itsube-souken:10000309": {
       "item_code": "itsube-souken:10000309",
@@ -3251,8 +3257,8 @@
       "title": "21cmポケットコイルマットレス｜サイズ・硬めの寝心地・復元時間",
       "status": "published",
       "created_at": "2026-09-29T10:11:59+09:00",
-      "updated_at": "2026-10-12T10:14:21+09:00",
-      "last_checked_at": "2026-10-04T10:00:19+09:00",
+      "updated_at": "2026-10-13T10:00:12+09:00",
+      "last_checked_at": "2026-10-13T10:00:12+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 2,
@@ -3317,8 +3323,8 @@
       "title": "EN101Pポケットコイルマットレス｜サイズ・厚み・開封時の確認点",
       "status": "published",
       "created_at": "2026-09-29T10:13:08+09:00",
-      "updated_at": "2026-10-12T10:14:21+09:00",
-      "last_checked_at": "2026-10-04T10:00:20+09:00",
+      "updated_at": "2026-10-13T10:00:14+09:00",
+      "last_checked_at": "2026-10-13T10:00:14+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 3,
@@ -3718,7 +3724,7 @@
       "title": "POMULU 2WAYヒップシート｜対象年齢・使い方を確認",
       "status": "published",
       "created_at": "2026-09-30T10:08:51+09:00",
-      "updated_at": "2026-10-06T10:17:20+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-06T10:00:12+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
@@ -3726,8 +3732,8 @@
       "related": [
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/",
-        "../../../products/baby/kaitekistore-10000835/"
+        "../../../products/baby/plusiine-10001461/",
+        "../../../products/baby/netbaby-10028506/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -3849,16 +3855,16 @@
       "title": "ロイヤルカナン猫用ユリナリーS/O｜特徴と確認点",
       "status": "published",
       "created_at": "2026-09-30T10:11:12+09:00",
-      "updated_at": "2026-10-07T10:16:08+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-06T10:00:15+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 31,
       "related": [
+        "../../../products/pet/petdr-x-10000342/",
         "../../../products/pet/styleplus-10000052/",
         "../../../products/pet/dog-kan-10004557/",
-        "../../../products/pet/dogandcat-10069737/",
-        "../../../products/pet/beisia-10031447/"
+        "../../../products/pet/dogandcat-10069737/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -3916,16 +3922,16 @@
       "title": "ロイヤルカナン 猫用 ユリナリーS/O オルファクトリー ドライ 4kg｜商品情報と購入手続き",
       "status": "published",
       "created_at": "2026-09-30T10:12:21+09:00",
-      "updated_at": "2026-10-07T10:16:08+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-06T10:00:17+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 28,
       "related": [
+        "../../../products/pet/petdr-x-10000007/",
+        "../../../products/pet/petdr-x-10000342/",
         "../../../products/pet/styleplus-10000052/",
-        "../../../products/pet/dog-kan-10004557/",
-        "../../../products/pet/dogandcat-10069737/",
-        "../../../products/pet/beisia-10031447/"
+        "../../../products/pet/dog-kan-10004557/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -3981,7 +3987,7 @@
       "title": "エクスプロージョン WPC ホエイプロテイン ミルクチョコレート味 3kg｜成分・原材料・飲み方",
       "status": "published",
       "created_at": "2026-09-30T10:13:51+09:00",
-      "updated_at": "2026-10-06T10:00:19+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-06T10:00:19+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
@@ -3989,8 +3995,8 @@
       "related": [
         "../../../products/sports-outdoor/toripurussss-10000049/",
         "../../../products/health/luckyspread-10000001/",
-        "../../../products/health/fancl-shop-10009163/",
-        "../../../products/health/bayeryakuhin-10000008/"
+        "../../../products/health/bayeryakuhin-10000008/",
+        "../../../products/health/mariness-10000000/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -4315,14 +4321,15 @@
       "title": "EENOUR ゴルフレーザー距離計 U800+/U1000PRO+の仕様と違い",
       "status": "published",
       "created_at": "2026-10-01T10:08:08+09:00",
-      "updated_at": "2026-10-09T10:13:40+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-08T10:00:10+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 0,
       "related": [
         "../../../products/sports-outdoor/e-techpowershop-10000079/",
-        "../../../products/sports-outdoor/toripurussss-10000049/"
+        "../../../products/sports-outdoor/toripurussss-10000049/",
+        "../../../products/sports-outdoor/motions-10000002/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -4645,7 +4652,7 @@
       "title": "すっぽん小町の原材料・コラーゲン量・飲み方を確認",
       "status": "published",
       "created_at": "2026-10-01T10:15:21+09:00",
-      "updated_at": "2026-10-10T10:16:05+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-08T10:00:18+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -4653,8 +4660,8 @@
       "related": [
         "../../../products/health/toyomarket-10000185/",
         "../../../products/health/luckyspread-10000001/",
-        "../../../products/health/fancl-shop-10009163/",
-        "../../../products/health/bayeryakuhin-10000008/"
+        "../../../products/health/bayeryakuhin-10000008/",
+        "../../../products/health/mariness-10000000/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -5056,7 +5063,7 @@
       "title": "ピジョン 電動鼻吸い器 シュポット｜使い方・お手入れ・対象月齢",
       "status": "published",
       "created_at": "2026-10-02T10:08:47+09:00",
-      "updated_at": "2026-10-10T10:00:12+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-10T10:00:12+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -5064,8 +5071,8 @@
       "related": [
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/",
-        "../../../products/baby/kaitekistore-10000835/"
+        "../../../products/baby/plusiine-10001461/",
+        "../../../products/baby/netbaby-10028506/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -5122,7 +5129,7 @@
       "title": "はあちゅう×welleg ハンズフリースニーカーのサイズ感と特徴",
       "status": "published",
       "created_at": "2026-10-02T10:10:10+09:00",
-      "updated_at": "2026-10-10T10:00:13+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-10T10:00:13+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
@@ -5131,7 +5138,7 @@
         "../../../products/fashion/linoulu-10000507/",
         "../../../products/fashion/b4u-shop-10002773/",
         "../../../products/fashion/euphoric-10000029/",
-        "../../../products/fashion/sockkobe-10011322/"
+        "../../../products/fashion/auc-whiteangel-10000000/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -5255,7 +5262,7 @@
       "title": "森永 はぐくみ エコらくパック つめかえ用｜内容量と使い方",
       "status": "published",
       "created_at": "2026-10-02T10:12:34+09:00",
-      "updated_at": "2026-10-10T10:00:16+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-10T10:00:16+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
@@ -5263,8 +5270,8 @@
       "related": [
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/",
-        "../../../products/baby/kaitekistore-10000835/"
+        "../../../products/baby/plusiine-10001461/",
+        "../../../products/baby/netbaby-10028506/"
       ],
       "review_changes": 4,
       "missing_count": 1
@@ -5849,14 +5856,15 @@
       "title": "ALL OUTパワーグリップ｜サイズ・使い方と特徴を解説",
       "status": "published",
       "created_at": "2026-10-03T10:14:14+09:00",
-      "updated_at": "2026-10-12T10:00:15+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-12T10:00:15+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 0,
       "related": [
         "../../../products/sports-outdoor/e-techpowershop-10000079/",
-        "../../../products/sports-outdoor/e-techpowershop-10000000/"
+        "../../../products/sports-outdoor/e-techpowershop-10000000/",
+        "../../../products/sports-outdoor/motions-10000002/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -6172,16 +6180,16 @@
       "title": "ベビーサークルのサイズと使い方｜7ways置くだけゲート",
       "status": "published",
       "created_at": "2026-10-04T10:04:37+09:00",
-      "updated_at": "2026-10-06T10:17:20+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-04T10:04:37+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 0,
       "related": [
         "../../../products/baby/dwinguler2023-10000000/",
+        "../../../products/baby/plusiine-10001461/",
         "../../../products/baby/high-high-10000174/",
-        "../../../products/baby/netbaby-10028658/",
-        "../../../products/baby/netbaby-10028506/"
+        "../../../products/baby/netbaby-10028658/"
       ],
       "review_changes": 4
     },
@@ -6365,7 +6373,7 @@
       "title": "VALX ホエイプロテイン WPC 1kg｜風味・栄養成分・飲み方",
       "status": "published",
       "created_at": "2026-10-04T10:08:08+09:00",
-      "updated_at": "2026-10-05T10:15:54+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-04T10:08:08+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
@@ -6374,7 +6382,7 @@
         "../../../products/health/nippon-shinyaku-shop-10000446/",
         "../../../products/health/realstyle4u-10002388/",
         "../../../products/sports-outdoor/toripurussss-10000049/",
-        "../../../products/health/luckyspread-10000001/"
+        "../../../products/food/toyomarket-10000287/"
       ],
       "review_changes": 3
     },
@@ -6428,7 +6436,7 @@
       "title": "ウィンゾーン ホエイプロテイン3kg｜風味・飲み方を確認",
       "status": "published",
       "created_at": "2026-10-04T10:09:17+09:00",
-      "updated_at": "2026-10-05T10:15:54+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-04T10:09:17+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
@@ -6437,7 +6445,7 @@
         "../../../products/health/valx-10000057/",
         "../../../products/health/realstyle4u-10002388/",
         "../../../products/food/seedcoms-10004174/",
-        "../../../products/health/luckyspread-10000001/"
+        "../../../products/food/toyomarket-10000287/"
       ],
       "review_changes": 4
     },
@@ -6569,16 +6577,16 @@
       "title": "エレビット葉酸サプリ30日分｜含有量・飲み方・注意点",
       "status": "published",
       "created_at": "2026-10-04T10:13:54+09:00",
-      "updated_at": "2026-10-04T10:13:54+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-04T10:13:54+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 10,
       "related": [
-        "../../../products/health/fancl-shop-10009163/",
-        "../../../products/health/bambi-water-10000052/",
-        "../../../products/health/toyomarket-10000142/",
-        "../../../products/health/luckyspread-10000001/"
+        "../../../products/health/luckyspread-10000001/",
+        "../../../products/health/mariness-10000000/",
+        "../../../products/health/shimin2-10000782/",
+        "../../../products/health/life-rhythm-10000594/"
       ],
       "review_changes": 3
     },
@@ -7546,7 +7554,7 @@
       "title": "ケラッタ イブル ベビーガーゼタオル｜サイズ・セット内容・洗濯方法",
       "status": "published",
       "created_at": "2026-10-06T10:07:12+09:00",
-      "updated_at": "2026-10-06T10:17:20+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-06T10:07:12+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -7555,7 +7563,7 @@
         "../../../products/baby/auc-risecreation-10005198/",
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/"
+        "../../../products/baby/plusiine-10001461/"
       ],
       "review_changes": 3
     },
@@ -7609,7 +7617,7 @@
       "title": "Dwinguler赤ちゃん用PVCプレイマット｜厚さ・サイズ・防水仕様",
       "status": "published",
       "created_at": "2026-10-06T10:08:42+09:00",
-      "updated_at": "2026-10-08T10:14:22+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-06T10:08:42+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
@@ -7618,7 +7626,7 @@
         "../../../products/baby/kaitekistore-10000835/",
         "../../../products/baby/soyott-camp-10000016/",
         "../../../products/baby/netbaby-10028658/",
-        "../../../products/baby/netbaby-10028506/"
+        "../../../products/baby/plusiine-10001461/"
       ],
       "review_changes": 4
     },
@@ -7881,7 +7889,7 @@
       "title": "ベビー用6重ガーゼバスタオル｜サイズ・フード付き・セット内容",
       "status": "published",
       "created_at": "2026-10-06T10:15:57+09:00",
-      "updated_at": "2026-10-06T10:15:57+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-06T10:15:57+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
@@ -7890,7 +7898,7 @@
         "../../../products/baby/yamabikoya-10000278/",
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/"
+        "../../../products/baby/plusiine-10001461/"
       ],
       "review_changes": 4
     },
@@ -8137,7 +8145,7 @@
       "title": "エクオール10mg配合サプリ｜1日1粒・原材料を確認",
       "status": "published",
       "created_at": "2026-10-07T10:04:55+09:00",
-      "updated_at": "2026-10-12T10:14:21+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-07T10:04:55+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
@@ -8146,7 +8154,7 @@
         "../../../products/health/teinei-tsuhan-10000000/",
         "../../../products/health/pycno-10006900/",
         "../../../products/health/luckyspread-10000001/",
-        "../../../products/health/fancl-shop-10009163/"
+        "../../../products/health/bayeryakuhin-10000008/"
       ],
       "review_changes": 3
     },
@@ -8264,7 +8272,7 @@
       "title": "子ども用歯ブラシ30本セット｜対象年齢・柄・サイズを確認",
       "status": "published",
       "created_at": "2026-10-07T10:08:27+09:00",
-      "updated_at": "2026-10-07T10:08:27+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-07T10:08:27+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -8272,8 +8280,8 @@
       "related": [
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/",
-        "../../../products/baby/kaitekistore-10000835/"
+        "../../../products/baby/plusiine-10001461/",
+        "../../../products/baby/netbaby-10028506/"
       ],
       "review_changes": 4
     },
@@ -8871,7 +8879,7 @@
       "title": "女性用プロテイン「タンパクオトメ」の飲み方・内容量",
       "status": "published",
       "created_at": "2026-10-08T10:06:42+09:00",
-      "updated_at": "2026-10-09T10:13:40+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-08T10:06:42+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -8879,7 +8887,7 @@
       "related": [
         "../../../products/food/toyomarket-10000219/",
         "../../../products/food/sonoshokuan-10000346/",
-        "../../../products/health/bambi-water-10000052/",
+        "../../../products/food/toyomarket-10000287/",
         "../../../products/food/kouragumi-10000855/"
       ],
       "review_changes": 4
@@ -9001,7 +9009,7 @@
       "title": "授乳ブラのサイズ選びと使い方｜ストラップオープン・延長ホック",
       "status": "published",
       "created_at": "2026-10-08T10:09:05+09:00",
-      "updated_at": "2026-10-08T10:09:05+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-08T10:09:05+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -9009,8 +9017,8 @@
       "related": [
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/",
-        "../../../products/baby/kaitekistore-10000835/"
+        "../../../products/baby/plusiine-10001461/",
+        "../../../products/baby/netbaby-10028506/"
       ],
       "review_changes": 2
     },
@@ -9064,15 +9072,15 @@
       "title": "Lypo-CリポソームビタミンC｜28包の内容量と原材料",
       "status": "published",
       "created_at": "2026-10-08T10:10:15+09:00",
-      "updated_at": "2026-10-11T10:19:20+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-08T10:10:15+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 1,
       "related": [
         "../../../products/health/teinei-tsuhan-10000000/",
-        "../../../products/health/toyomarket-10000142/",
         "../../../products/health/lypoc-10000018/",
+        "../../../products/health/bosii-10000016/",
         "../../../products/health/luckyspread-10000001/"
       ],
       "review_changes": 3
@@ -9253,7 +9261,7 @@
       "title": "popomiプレイマット｜防音性能・サイズ・お手入れの注意点",
       "status": "published",
       "created_at": "2026-10-08T10:14:22+09:00",
-      "updated_at": "2026-10-08T10:14:22+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-08T10:14:22+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
@@ -9262,7 +9270,7 @@
         "../../../products/baby/kaitekistore-10000835/",
         "../../../products/baby/dwinguler2023-10000000/",
         "../../../products/baby/netbaby-10028658/",
-        "../../../products/baby/netbaby-10028506/"
+        "../../../products/baby/plusiine-10001461/"
       ],
       "review_changes": 4
     },
@@ -9384,14 +9392,15 @@
       "title": "ゴルフレーザー距離計 SILLAID VM1・VM2の機能と選び方",
       "status": "published",
       "created_at": "2026-10-09T10:03:46+09:00",
-      "updated_at": "2026-10-09T10:03:46+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-09T10:03:46+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 3,
       "related": [
         "../../../products/sports-outdoor/e-techpowershop-10000000/",
-        "../../../products/sports-outdoor/toripurussss-10000049/"
+        "../../../products/sports-outdoor/toripurussss-10000049/",
+        "../../../products/sports-outdoor/motions-10000002/"
       ],
       "review_changes": 4
     },
@@ -9832,7 +9841,7 @@
       "title": "ベビースリーパーの選び方｜フランネル・ボア・ガーゼとサイズ",
       "status": "published",
       "created_at": "2026-10-09T10:12:07+09:00",
-      "updated_at": "2026-10-12T10:14:21+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-09T10:12:07+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -9841,7 +9850,7 @@
         "../../../products/baby/netbaby-10041996/",
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/netbaby-10028506/"
+        "../../../products/baby/plusiine-10001461/"
       ],
       "review_changes": 2
     },
@@ -10177,13 +10186,13 @@
       "title": "VITAS EAA 520gの成分・味・目安量を確認",
       "status": "published",
       "created_at": "2026-10-10T10:07:29+09:00",
-      "updated_at": "2026-10-10T10:07:29+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-10T10:07:29+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 2,
       "related": [
-        "../../../products/health/bambi-water-10000052/",
+        "../../../products/health/mariness-10000000/",
         "../../../products/health/valx-10000057/",
         "../../../products/health/nippon-shinyaku-shop-10000446/",
         "../../../products/health/teinei-tsuhan-10000000/"
@@ -10579,7 +10588,7 @@
       "title": "プレミアムカシミヤタッチニット｜素材・サイズ感・透け感",
       "status": "published",
       "created_at": "2026-10-10T10:16:04+09:00",
-      "updated_at": "2026-10-10T10:16:04+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-10T10:16:04+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -10588,7 +10597,7 @@
         "../../../products/fashion/linoulu-10000507/",
         "../../../products/fashion/b4u-shop-10002773/",
         "../../../products/fashion/euphoric-10000029/",
-        "../../../products/fashion/sockkobe-10011322/"
+        "../../../products/fashion/auc-whiteangel-10000000/"
       ],
       "review_changes": 4
     },
@@ -11146,7 +11155,7 @@
       "title": "アディダス NY 90 キッズ｜サイズ・素材・選び方",
       "status": "published",
       "created_at": "2026-10-11T10:16:41+09:00",
-      "updated_at": "2026-10-11T10:16:41+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-11T10:16:41+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -11155,7 +11164,7 @@
         "../../../products/fashion/linoulu-10000507/",
         "../../../products/fashion/b4u-shop-10002773/",
         "../../../products/fashion/euphoric-10000029/",
-        "../../../products/fashion/sockkobe-10011322/"
+        "../../../products/fashion/auc-whiteangel-10000000/"
       ],
       "review_changes": 1
     },
@@ -11209,16 +11218,16 @@
       "title": "リポ カプセル ビタミンC+D｜成分・液状タイプを確認",
       "status": "published",
       "created_at": "2026-10-11T10:17:54+09:00",
-      "updated_at": "2026-10-11T10:19:20+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-11T10:17:54+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 0,
       "related": [
         "../../../products/health/teinei-tsuhan-10000000/",
-        "../../../products/health/toyomarket-10000142/",
         "../../../products/health/lypoc-10000019/",
-        "../../../products/health/chillers-10000033/"
+        "../../../products/health/chillers-10000033/",
+        "../../../products/health/bosii-10000016/"
       ],
       "review_changes": 4
     },
@@ -11274,7 +11283,7 @@
       "title": "NMNサプリメントP3｜個包装・粒数・原材料",
       "status": "published",
       "created_at": "2026-10-11T10:19:20+09:00",
-      "updated_at": "2026-10-11T10:19:20+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-11T10:19:20+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
@@ -11283,7 +11292,7 @@
         "../../../products/health/teinei-tsuhan-10000000/",
         "../../../products/health/lypoc-10000018/",
         "../../../products/health/luckyspread-10000001/",
-        "../../../products/health/fancl-shop-10009163/"
+        "../../../products/health/bayeryakuhin-10000008/"
       ],
       "review_changes": 4
     },
@@ -11602,13 +11611,13 @@
       "title": "グロング クレアチンパウダー｜飲み方・内容量・溶け方",
       "status": "published",
       "created_at": "2026-10-12T10:08:16+09:00",
-      "updated_at": "2026-10-12T10:08:16+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-12T10:08:16+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 1,
       "related": [
-        "../../../products/health/bambi-water-10000052/",
+        "../../../products/health/mariness-10000000/",
         "../../../products/health/realstyle4u-10002388/",
         "../../../products/health/valx-10000057/",
         "../../../products/health/nippon-shinyaku-shop-10000446/"
@@ -11862,16 +11871,16 @@
       "title": "ビーレジェンドWPCホエイプロテイン 2袋セット｜選べるフレーバー",
       "status": "published",
       "created_at": "2026-10-12T10:12:48+09:00",
-      "updated_at": "2026-10-12T10:12:48+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
       "last_checked_at": "2026-10-12T10:12:48+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 0,
       "related": [
+        "../../../products/food/toyomarket-10000287/",
         "../../../products/health/realstyle4u-10002388/",
         "../../../products/food/kouragumi-10000855/",
-        "../../../products/food/sanwa-junkei-10000536/",
-        "../../../products/food/matsuya-10000085/"
+        "../../../products/food/sanwa-junkei-10000536/"
       ],
       "review_changes": 4
     },
@@ -11937,19 +11946,670 @@
         "../../../products/health/luckyspread-10000001/"
       ],
       "review_changes": 5
+    },
+    "plusiine:10001461": {
+      "item_code": "plusiine:10001461",
+      "slug": "plusiine-10001461",
+      "item_name": "【まとめ買いで5％OFF】 楽天No.1 ベビーゲート 階段上 階段 階段下 キッチン ワイド 突っ張り 玄関 賃貸 赤ちゃん ベビー 柵 ドア 犬 ペット フェンス ペットゲート 室内 扉 台所 寝室 リビング ドア付き ゲート 拡張フレーム ウォールセーバー スロープ",
+      "display_name": "楽天 ベビーゲート 階段上 階段 階段下 キッチン ワイド 突っ張り 玄関",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00twedo.dogkm1cc.g00twedo.dogknbb9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplusiine%2Fbabygate01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplusiine%2Fi%2F10001461%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00twedo.dogkm1cc.g00twedo.dogknbb9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplusiine%2Fbabygate01%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "baby",
+      "category_label": "育児・ベビー用品",
+      "keyword": "",
+      "product_type": "ベビーゲート",
+      "keywords": [
+        "突っ張り式ベビーゲート",
+        "階段用ベビーゲート",
+        "キッチンゲート",
+        "ペットゲート",
+        "拡張フレーム対応"
+      ],
+      "related_needs": [
+        "ベビーゲート用拡張フレーム",
+        "ウォールセーバー",
+        "段差スロープ",
+        "コーナーガード"
+      ],
+      "primary_score": 66.7,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 13.4,
+        "rating": 8.3,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 5.0,
+        "rank": 89
+      },
+      "ai_scores": {
+        "problem_solving": 14,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 94.7,
+      "lp_path": "products/baby/plusiine-10001461/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/baby/plusiine-10001461/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/plusiine/cabinet/biiino/top/babygate01_p.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/plusiine/cabinet/biiino/safetygoods/babygate01/babygate01_02-2.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "ベビーゲートの幅・設置条件は？突っ張り式の仕様を確認",
+      "status": "published",
+      "created_at": "2026-10-13T10:02:30+09:00",
+      "updated_at": "2026-10-13T10:02:30+09:00",
+      "last_checked_at": "2026-10-13T10:02:30+09:00",
+      "fail_count": 0,
+      "voice": "生活者目線の語りかけ調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/baby/high-high-10000174/",
+        "../../../products/baby/netbaby-10028658/",
+        "../../../products/baby/dwinguler2023-10000000/",
+        "../../../products/baby/netbaby-10028506/"
+      ],
+      "review_changes": 2
+    },
+    "busyman:10000122": {
+      "item_code": "busyman:10000122",
+      "item_name": "スーツケース 機内持込 軽量 キャリーバッグ TSAロック USBポート ドリンクホルダー 静音 人気 修学旅行 大容量 頑丈 かわいい おすすめ SSサイズ Sサイズ Mサイズ Lサイズ 子供 T9088 TANOBI【キャンペーン参加で3年間品質保証獲得！】",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rb6lo.dogkm09a.g00rb6lo.dogkn9ae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbusyman%2Fpp003393%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "other",
+      "status": "excluded",
+      "reason": "品質チェック不合格: 特徴が2つ未満 / FAQが2つ未満 / 購入前の確認ポイントが2つ未満",
+      "primary_score": 67.5,
+      "created_at": "2026-10-13T10:02:30+09:00",
+      "updated_at": "2026-10-13T10:02:30+09:00"
+    },
+    "mariness:10000000": {
+      "item_code": "mariness:10000000",
+      "slug": "mariness-10000000",
+      "item_name": "プロテイン 女性 完全栄養食 marinessプロテイン 人工甘味料不使用 女性向け 国産 無添加 高タンパク 置き換え ダイエット ソイ ホエイ 減量 美容 授乳中 マリネス リポソーム チョコ 苺ミルク 黒ごまきな粉 コーヒー",
+      "display_name": "プロテイン 女性 完全栄養食 marinessプロテイン 人工甘味料不使用",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u5oao.dogkm2f4.g00u5oao.dogknffa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmariness%2Fs0000155551%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmariness%2Fi%2F10000000%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u5oao.dogkm2f4.g00u5oao.dogknffa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmariness%2Fs0000155551%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "health",
+      "category_label": "健康・リラックス",
+      "keyword": "",
+      "product_type": "プロテインパウダー",
+      "keywords": [
+        "女性向けプロテイン",
+        "ホエイソイプロテイン",
+        "人工甘味料不使用",
+        "ビタミン配合プロテイン",
+        "marinessプロテイン"
+      ],
+      "related_needs": [
+        "シェイカー",
+        "プロテイン用計量スプーン",
+        "牛乳",
+        "豆乳"
+      ],
+      "primary_score": 67.3,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 13.3,
+        "rating": 9.0,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 82
+      },
+      "ai_scores": {
+        "problem_solving": 11,
+        "target_clarity": 8,
+        "lp_fit": 4
+      },
+      "final_score": 90.3,
+      "lp_path": "products/health/mariness-10000000/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/health/mariness-10000000/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/mariness/cabinet/08766894/10555637/imgrc0093869351.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/mariness/cabinet/08766894/10555637/2.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "marinessプロテインの飲み方・原材料と購入前の確認点",
+      "status": "published",
+      "created_at": "2026-10-13T10:05:18+09:00",
+      "updated_at": "2026-10-13T10:05:18+09:00",
+      "last_checked_at": "2026-10-13T10:05:18+09:00",
+      "fail_count": 0,
+      "voice": "暮らしの場面から入る描写調",
+      "auto_fixes": 3,
+      "related": [
+        "../../../products/kitchen/roomy-10015766/",
+        "../../../products/appliances/hotch-potch-10017531/",
+        "../../../products/health/luckyspread-10000001/",
+        "../../../products/health/bayeryakuhin-10000008/"
+      ],
+      "review_changes": 4
+    },
+    "petdr-x:10000007": {
+      "item_code": "petdr-x:10000007",
+      "slug": "petdr-x-10000007",
+      "item_name": "ロイヤルカナン 食事療法食 猫用 消化器サポート 可溶性繊維 ドライ 4kg",
+      "display_name": "ロイヤルカナン 猫用 消化器サポート 可溶性繊維 ドライ 4kg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sudho.dogkm714.g00sudho.dogkn09e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetdr-x%2F10000008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetdr-x%2Fi%2F10000007%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sudho.dogkm714.g00sudho.dogkn09e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetdr-x%2F10000008%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "pet",
+      "category_label": "ペット用品",
+      "keyword": "",
+      "product_type": "猫用食事療法食",
+      "keywords": [
+        "猫用食事療法食",
+        "消化器サポート",
+        "可溶性繊維",
+        "猫用ドライフード",
+        "ロイヤルカナン 4kg"
+      ],
+      "related_needs": [
+        "かかりつけ動物病院への相談",
+        "猫用フード保存容器",
+        "ペットフード用計量器",
+        "猫用食器"
+      ],
+      "primary_score": 63.9,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 10.5,
+        "rating": 10.0,
+        "price": 10,
+        "images": 10,
+        "specificity": 8.4,
+        "trend_bonus": 7.0,
+        "rank": 12
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 9,
+        "lp_fit": 4
+      },
+      "final_score": 88.9,
+      "lp_path": "products/pet/petdr-x-10000007/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/pet/petdr-x-10000007/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/petdr-x/cabinet/mem_item/imgrc0111461817.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/petdr-x/cabinet/mem_item/3182550775564.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/petdr-x/cabinet/mem_item/3182550775564-2.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "猫用消化器サポート 可溶性繊維｜4kg・原材料と購入前の確認点",
+      "status": "published",
+      "created_at": "2026-10-13T10:06:30+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
+      "last_checked_at": "2026-10-13T10:06:30+09:00",
+      "fail_count": 0,
+      "voice": "生活者目線の語りかけ調",
+      "auto_fixes": 31,
+      "related": [
+        "../../../products/pet/petdr-x-10000327/",
+        "../../../products/pet/petdr-x-10000342/",
+        "../../../products/pet/styleplus-10000052/",
+        "../../../products/pet/dog-kan-10004557/"
+      ],
+      "review_changes": 4
+    },
+    "bosii:10000016": {
+      "item_code": "bosii:10000016",
+      "slug": "bosii-10000016",
+      "item_name": "【飲むビタミン美容ケア】【ELLISS公式】エルリス ビタミンC リポソームビタミンC リポソーム 30包1ヶ月分 アロエベラ含有加工食品 サプリメント ビタミンC誘導体 レモン味",
+      "display_name": "エルリス ビタミンC リポソーム 30包",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uh5qo.dogkm85b.g00uh5qo.dogknca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbosii%2Fels-vck%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbosii%2Fi%2F10000016%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uh5qo.dogkm85b.g00uh5qo.dogknca6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbosii%2Fels-vck%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "health",
+      "category_label": "健康・リラックス",
+      "keyword": "",
+      "product_type": "ビタミンCサプリメント",
+      "keywords": [
+        "エルリス",
+        "ビタミンCサプリメント",
+        "リポソームビタミンC",
+        "30包",
+        "レモン味"
+      ],
+      "related_needs": [
+        "ビタミンCを含む他の健康食品",
+        "ビタミン類のサプリメント",
+        "栄養成分を補う食品",
+        "美容を意識したスキンケア用品"
+      ],
+      "primary_score": 66.0,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 11.4,
+        "rating": 9.6,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 89
+      },
+      "ai_scores": {
+        "problem_solving": 7,
+        "target_clarity": 6,
+        "lp_fit": 3
+      },
+      "final_score": 82.0,
+      "lp_path": "products/health/bosii-10000016/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/health/bosii-10000016/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/bosii/cabinet/13269111/imgrc0182949180.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/bosii/cabinet/13269111/vck-sq02.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "エルリスのリポソームビタミンC｜30包の内容と確認点",
+      "status": "published",
+      "created_at": "2026-10-13T10:07:50+09:00",
+      "updated_at": "2026-10-13T10:07:50+09:00",
+      "last_checked_at": "2026-10-13T10:07:50+09:00",
+      "fail_count": 0,
+      "voice": "比較検討を手伝う整理調",
+      "auto_fixes": 5,
+      "related": [
+        "../../../products/health/teinei-tsuhan-10000000/",
+        "../../../products/health/lypoc-10000019/",
+        "../../../products/health/lypoc-10000018/",
+        "../../../products/health/luckyspread-10000001/"
+      ],
+      "review_changes": 4
+    },
+    "petdr-x:10000342": {
+      "item_code": "petdr-x:10000342",
+      "slug": "petdr-x-10000342",
+      "item_name": "ロイヤルカナン 療法食 猫用 ユリナリーS/O ドライ 4kg",
+      "display_name": "ロイヤルカナン 猫用 ユリナリーS/O ドライ 4kg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sudho.dogkm714.g00sudho.dogkn09e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetdr-x%2F10000134-5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetdr-x%2Fi%2F10000342%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sudho.dogkm714.g00sudho.dogkn09e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetdr-x%2F10000134-5%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "pet",
+      "category_label": "ペット用品",
+      "keyword": "",
+      "product_type": "猫用食事療法食",
+      "keywords": [
+        "猫用食事療法食",
+        "ユリナリーS/O",
+        "猫用ドライフード",
+        "ストルバイト結石症",
+        "シュウ酸カルシウム結石症"
+      ],
+      "related_needs": [
+        "猫用ウェットフード",
+        "ペットフード保存容器",
+        "ペットフード用計量器",
+        "猫用食器"
+      ],
+      "primary_score": 62.1,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 9.3,
+        "rating": 9.1,
+        "price": 10,
+        "images": 10,
+        "specificity": 8.7,
+        "trend_bonus": 7.0,
+        "rank": 10
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 4
+      },
+      "final_score": 88.1,
+      "lp_path": "products/pet/petdr-x-10000342/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/pet/petdr-x-10000342/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/petdr-x/cabinet/mem_item/imgrc0082090876.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/petdr-x/cabinet/mem_item/3182550901062.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/petdr-x/cabinet/mem_item/3182550901062-2.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "ロイヤルカナン 猫用ユリナリーS/O ドライ4kg｜対象・原材料と確認点",
+      "status": "published",
+      "created_at": "2026-10-13T10:09:00+09:00",
+      "updated_at": "2026-10-13T10:09:00+09:00",
+      "last_checked_at": "2026-10-13T10:09:00+09:00",
+      "fail_count": 0,
+      "voice": "要点先出しの簡潔調",
+      "auto_fixes": 40,
+      "related": [
+        "../../../products/pet/petdr-x-10000327/",
+        "../../../products/pet/petdr-x-10000007/",
+        "../../../products/pet/wwpc-10064892/",
+        "../../../products/pet/styleplus-10000052/"
+      ],
+      "review_changes": 4
+    },
+    "moroccanoil:10000012": {
+      "item_code": "moroccanoil:10000012",
+      "slug": "moroccanoil-10000012",
+      "item_name": "【ブランド公式】モロッカンオイル モロッカンオイルトリートメント 選べるサイズ 100ml 50ml ポンプ付き | 正規品 送料無料 ヘアオイル 洗い流さないトリートメント アウトバストリートメント トリートメントオイル アルガンオイル MOROCCANOIL｜新商品 ミスト まとめ買い",
+      "display_name": "モロッカンオイルトリートメント",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uixzo.dogkm8c7.g00uixzo.dogkna2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmoroccanoil%2Fmo-ver-0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmoroccanoil%2Fi%2F10000012%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uixzo.dogkm8c7.g00uixzo.dogkna2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmoroccanoil%2Fmo-ver-0001%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "haircare",
+      "category_label": "ヘアケア",
+      "keyword": "",
+      "product_type": "洗い流さないヘアオイル",
+      "keywords": [
+        "洗い流さないトリートメント",
+        "ヘアオイル",
+        "アルガンオイル",
+        "アウトバストリートメント",
+        "ヘアスタイリング"
+      ],
+      "related_needs": [
+        "シャンプー",
+        "ヘアマスク",
+        "ヘアミスト",
+        "ヘアブラシ"
+      ],
+      "primary_score": 64.1,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 9.5,
+        "rating": 9.6,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 5.0,
+        "rank": 56
+      },
+      "ai_scores": {
+        "problem_solving": 11,
+        "target_clarity": 8,
+        "lp_fit": 4
+      },
+      "final_score": 87.1,
+      "lp_path": "products/haircare/moroccanoil-10000012/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/haircare/moroccanoil-10000012/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/moroccanoil/cabinet/item-images/11120062/13613798/mo-0001.jpg?_ex=128x128"
+      ],
+      "image_count": 1,
+      "title": "モロッカンオイルトリートメント｜使い方とサイズ選び",
+      "status": "published",
+      "created_at": "2026-10-13T10:10:11+09:00",
+      "updated_at": "2026-10-13T10:10:11+09:00",
+      "last_checked_at": "2026-10-13T10:10:11+09:00",
+      "fail_count": 0,
+      "voice": "暮らしの場面から入る描写調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/haircare/sakurap-10005223/",
+        "../../../products/haircare/kerastase-varie-10000005/",
+        "../../../products/haircare/beautypark2017-10002719/"
+      ],
+      "review_changes": 3
+    },
+    "motions:10000002": {
+      "item_code": "motions:10000002",
+      "slug": "motions-10000002",
+      "item_name": "可変式ダンベル 【当店限定グリップ改良】 選べるPRO/従来モデル 24kg/40kg 単品/2個セット | ローレット加工グリップ アジャスタブルダンベル 筋トレ ホームジム ウエイトトレーニング 省スペース 静音 MotionsFit",
+      "display_name": "可変式ダンベル 24kg/40kg 単品/2個セット",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqlho.dogkm8f1.g00tqlho.dogkneef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Fmd242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotions%2Fi%2F10000002%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqlho.dogkm8f1.g00tqlho.dogkneef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Fmd242%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "sports-outdoor",
+      "category_label": "スポーツ・アウトドア",
+      "keyword": "",
+      "product_type": "可変式ダンベル",
+      "keywords": [
+        "可変式ダンベル",
+        "アジャスタブルダンベル",
+        "Motions 可変式ダンベル PRO",
+        "24kgダンベル",
+        "40kgダンベル",
+        "ホームジム"
+      ],
+      "related_needs": [
+        "トレーニングベンチ",
+        "トレーニングマット",
+        "筋トレ用グローブ",
+        "ダンベル収納用品"
+      ],
+      "primary_score": 65.1,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 10.3,
+        "rating": 9.8,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 40
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 92.1,
+      "lp_path": "products/sports-outdoor/motions-10000002/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/sports-outdoor/motions-10000002/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/md/md-24-40_tum_1.jpg?_ex=128x128"
+      ],
+      "image_count": 1,
+      "title": "Motions可変式ダンベル｜24kg・40kgとモデルの違い",
+      "status": "published",
+      "created_at": "2026-10-13T10:11:22+09:00",
+      "updated_at": "2026-10-13T10:11:22+09:00",
+      "last_checked_at": "2026-10-13T10:11:22+09:00",
+      "fail_count": 0,
+      "voice": "要点先出しの簡潔調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/sports-outdoor/e-techpowershop-10000079/",
+        "../../../products/sports-outdoor/e-techpowershop-10000000/",
+        "../../../products/sports-outdoor/toripurussss-10000049/"
+      ],
+      "review_changes": 4
+    },
+    "tansu:10044278": {
+      "item_code": "tansu:10044278",
+      "slug": "tansu-10044278",
+      "item_name": "【正午~5%引クーポン】 マットレス ワンランク上の寝心地&耐久性 極厚22cm 線径2.3mm トリプルエッジサポート ニット生地 ポケットコイル 高密度 マットレス ポケットコイルマットレス コイルマットレス セミシングル シングル セミダブル ダブル クイーン キング",
+      "display_name": "ポケットコイルマットレス 22cm",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.dogkm346.g00ppglo.dogkn969/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F1780000600%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10044278%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.dogkm346.g00ppglo.dogkn969/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F1780000600%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "interior",
+      "category_label": "収納・インテリア",
+      "keyword": "",
+      "product_type": "ポケットコイルマットレス",
+      "keywords": [
+        "ポケットコイルマットレス",
+        "厚さ22cmマットレス",
+        "トリプルエッジサポート",
+        "マットレス セミダブル",
+        "圧縮梱包マットレス"
+      ],
+      "related_needs": [
+        "ベッドフレーム",
+        "ベッドパッド",
+        "マットレスカバー",
+        "ボックスシーツ"
+      ],
+      "primary_score": 64.5,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 11.8,
+        "rating": 7.7,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 60
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 8,
+        "lp_fit": 4
+      },
+      "final_score": 88.5,
+      "lp_path": "products/interior/tansu-10044278/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/interior/tansu-10044278/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/curtain/17800006_10g.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/00323179/17800006_sp1.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "ポケットコイルマットレス22cm｜サイズ・仕様と確認点",
+      "status": "published",
+      "created_at": "2026-10-13T10:12:41+09:00",
+      "updated_at": "2026-10-13T10:12:41+09:00",
+      "last_checked_at": "2026-10-13T10:12:41+09:00",
+      "fail_count": 0,
+      "voice": "生活者目線の語りかけ調",
+      "auto_fixes": 3,
+      "related": [
+        "../../../products/interior/dondon-10003667/",
+        "../../../products/interior/bedandmat-10013442/",
+        "../../../products/interior/apoloce-10000016/",
+        "../../../products/interior/livingut-10201261/"
+      ],
+      "review_changes": 3
+    },
+    "toyomarket:10000287": {
+      "item_code": "toyomarket:10000287",
+      "slug": "toyomarket-10000287",
+      "item_name": "プロテイン 選べる2セット VITAS 2kg ブルーベリーヨーグルト キウイ バナナ あまおう チョコ マンゴー ミックス おいしい ホエイプロテイン バイタス アンチドーピング WPC タンパク質 アミノ酸",
+      "display_name": "VITAS プロテイン 2kg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00taino.dogkm697.g00taino.dogkn493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyomarket%2Fvitas006set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoyomarket%2Fi%2F10000287%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00taino.dogkm697.g00taino.dogkn493/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyomarket%2Fvitas006set%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "food",
+      "category_label": "食品・飲料",
+      "keyword": "",
+      "product_type": "ホエイプロテイン",
+      "keywords": [
+        "VITASプロテイン",
+        "ホエイプロテイン",
+        "WPC",
+        "フレーバー",
+        "たんぱく質"
+      ],
+      "related_needs": [
+        "プロテインシェイカー",
+        "プロテイン保存容器",
+        "計量スプーン",
+        "トレーニング用品"
+      ],
+      "primary_score": 64.4,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 9.4,
+        "rating": 10.0,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 64
+      },
+      "ai_scores": {
+        "problem_solving": 9,
+        "target_clarity": 8,
+        "lp_fit": 4
+      },
+      "final_score": 85.4,
+      "lp_path": "products/food/toyomarket-10000287/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/food/toyomarket-10000287/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/toyomarket/cabinet/protein/imgrc0144091450.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/toyomarket/cabinet/protein/top_1.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/toyomarket/cabinet/protein/imgrc0144091463.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "VITASプロテイン2kg｜フレーバー別の成分と仕様",
+      "status": "published",
+      "created_at": "2026-10-13T10:14:08+09:00",
+      "updated_at": "2026-10-13T10:14:08+09:00",
+      "last_checked_at": "2026-10-13T10:14:08+09:00",
+      "fail_count": 0,
+      "voice": "要点先出しの簡潔調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/sports-outdoor/toripurussss-10000049/",
+        "../../../products/health/valx-10000057/",
+        "../../../products/food/kyunan-10020376/",
+        "../../../products/food/realstyle4u-10000903/"
+      ],
+      "review_changes": 4
+    },
+    "auc-whiteangel:10000000": {
+      "item_code": "auc-whiteangel:10000000",
+      "slug": "auc-whiteangel-10000000",
+      "item_name": "【何度でも交換無料】【サイズはプロにお任せ】ブライダルインナー 4点セット 【選べるボトム 】【寄せ＆盛れる】【柔らかい着心地】【A65〜F80 サイズ豊富】背中空き 拡張フック ウエディングインナー ドレスインナー ドレス用下着 ビスチェ ガードル 花嫁",
+      "display_name": "ブライダルインナー 4点セット 背中空き",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qg8ho.dogkm5b0.g00qg8ho.dogkn5f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-whiteangel%2Fsa011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-whiteangel%2Fi%2F10000000%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qg8ho.dogkm5b0.g00qg8ho.dogkn5f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-whiteangel%2Fsa011%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "fashion",
+      "category_label": "ファッション小物",
+      "keyword": "",
+      "product_type": "ブライダルインナー",
+      "keywords": [
+        "ブライダルインナー",
+        "ウェディングインナー",
+        "ドレス用下着",
+        "ビスチェ",
+        "背中開き"
+      ],
+      "related_needs": [
+        "ウェディングドレス用補正下着",
+        "ブライダル用インナー小物",
+        "ウェディング用ストッキング",
+        "ブライダルシューズ"
+      ],
+      "primary_score": 64.2,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 14.0,
+        "rating": 5.2,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 66
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 91.2,
+      "lp_path": "products/fashion/auc-whiteangel-10000000/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/fashion/auc-whiteangel-10000000/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-whiteangel/cabinet/sa0110612/sa011_1000_1000c.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-whiteangel/cabinet/sa0110618/sa011_02d.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "ブライダルインナー4点セット｜背中開きドレス向け・サイズとセット内容",
+      "status": "published",
+      "created_at": "2026-10-13T10:15:27+09:00",
+      "updated_at": "2026-10-13T10:15:27+09:00",
+      "last_checked_at": "2026-10-13T10:15:27+09:00",
+      "fail_count": 0,
+      "voice": "生活者目線の語りかけ調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/fashion/linoulu-10000507/",
+        "../../../products/fashion/b4u-shop-10002773/",
+        "../../../products/fashion/euphoric-10000029/",
+        "../../../products/fashion/sockkobe-10011322/"
+      ],
+      "review_changes": 4
     }
   },
   "state": {
     "next_category": 0,
     "next_ranking_source": 0,
     "gemini_calls": {
-      "2026-10-06": 35,
       "2026-10-07": 36,
       "2026-10-08": 33,
       "2026-10-09": 32,
       "2026-10-10": 37,
       "2026-10-11": 42,
-      "2026-10-12": 34
+      "2026-10-12": 34,
+      "2026-10-13": 33
     }
   }
 }
