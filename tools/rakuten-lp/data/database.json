@@ -1534,7 +1534,7 @@
       "title": "令和8年産 福島県産ひとめぼれ白米｜5kg袋でお届け",
       "status": "published",
       "created_at": "2026-09-27T10:04:26+09:00",
-      "updated_at": "2026-10-15T10:00:05+09:00",
+      "updated_at": "2026-11-04T10:11:38+09:00",
       "last_checked_at": "2026-10-15T10:00:05+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
@@ -1543,7 +1543,7 @@
         "../../../products/food/jcrops-10000347/",
         "../../../products/food/komatirain-10000001/",
         "../../../products/food/kawasaki-beikoku-10000016/",
-        "../../../products/food/kouragumi-10000855/"
+        "../../../products/food/kumamoto-food-10003339/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -2402,7 +2402,7 @@
       "title": "彩水 あやみず 500ml 48本｜軟水の硬度・採水地・備蓄",
       "status": "published",
       "created_at": "2026-09-28T10:07:56+09:00",
-      "updated_at": "2026-11-02T10:05:07+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-11-02T10:00:07+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -2410,8 +2410,8 @@
       "related": [
         "../../../products/food/lifedrinkcompany-10000013/",
         "../../../products/food/skull-club-10000063/",
-        "../../../products/food/kenkocom-12148912/",
-        "../../../products/baby/netbaby-10037814/"
+        "../../../products/food/saibou-10001724/",
+        "../../../products/food/kurashido-10000448/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -4724,16 +4724,16 @@
       "title": "熊本県産ヒノヒカリ10kg｜白米・無洗米と保存方法",
       "status": "published",
       "created_at": "2026-10-02T10:01:55+09:00",
-      "updated_at": "2026-10-10T10:00:03+09:00",
-      "last_checked_at": "2026-10-10T10:00:03+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
+      "last_checked_at": "2026-11-04T10:00:16+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 0,
       "related": [
         "../../../products/food/hseason-10000260/",
         "../../../products/food/irisplaza-r-10170526/",
-        "../../../products/food/kouragumi-10000855/",
-        "../../../products/food/sanwa-junkei-10000536/"
+        "../../../products/food/kumamoto-food-10003339/",
+        "../../../products/food/kouragumi-10000855/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -5267,16 +5267,16 @@
       "title": "森永 はぐくみ エコらくパック つめかえ用｜内容量と使い方",
       "status": "published",
       "created_at": "2026-10-02T10:12:34+09:00",
-      "updated_at": "2026-10-19T10:16:40+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-10-10T10:00:16+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 4,
       "related": [
+        "../../../products/baby/netbaby-10052538/",
         "../../../products/baby/netbaby-10028658/",
         "../../../products/baby/dwinguler2023-10000000/",
-        "../../../products/baby/ebaby-select-10001543/",
-        "../../../products/baby/plusiine-10001461/"
+        "../../../products/baby/ebaby-select-10001543/"
       ],
       "review_changes": 4,
       "missing_count": 1
@@ -6059,7 +6059,7 @@
       "title": "令和8年産 秋田県産あきたこまち｜容量・小分け・送料",
       "status": "published",
       "created_at": "2026-10-04T10:02:17+09:00",
-      "updated_at": "2026-10-14T10:00:03+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-10-14T10:00:03+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
@@ -6068,7 +6068,7 @@
         "../../../products/food/jcrops-10001511/",
         "../../../products/food/jcrops-10000347/",
         "../../../products/food/kawasaki-beikoku-10000016/",
-        "../../../products/food/kouragumi-10000855/"
+        "../../../products/food/kumamoto-food-10003339/"
       ],
       "review_changes": 5,
       "missing_count": 0,
@@ -6994,16 +6994,16 @@
       "title": "い・ろ・は・す天然水ラベルレス560ml・48本｜硬度や保管方法",
       "status": "published",
       "created_at": "2026-10-05T10:07:20+09:00",
-      "updated_at": "2026-11-02T10:05:07+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-10-16T10:00:04+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 1,
       "related": [
+        "../../../products/food/saibou-10001724/",
+        "../../../products/food/kurashido-10000448/",
         "../../../products/food/kenkocom-12148912/",
-        "../../../products/food/irisplaza-r-10136708/",
-        "../../../products/food/skull-club-10000063/",
-        "../../../products/food/mizuomoi-10000002/"
+        "../../../products/food/irisplaza-r-10136708/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -8073,7 +8073,7 @@
       "title": "山形県産あきたこまち無洗米10kg｜内容量と保存方法",
       "status": "published",
       "created_at": "2026-10-07T10:02:25+09:00",
-      "updated_at": "2026-10-19T10:00:15+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-10-19T10:00:15+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
@@ -8081,8 +8081,8 @@
       "related": [
         "../../../products/food/fuchigami-10000003/",
         "../../../products/food/irisplaza-r-10170526/",
-        "../../../products/food/kouragumi-10000855/",
-        "../../../products/food/sanwa-junkei-10000536/"
+        "../../../products/food/kumamoto-food-10003339/",
+        "../../../products/food/kouragumi-10000855/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -9506,7 +9506,7 @@
       "item_name": "【30%offクーポン】 国産純粋はちみつ1000g [瓶] 1kg 国産はちみつ 日本製 はちみつ ハチミツ ハニー HONEY 蜂蜜 国産蜂蜜 国産ハチミツ 送料無料 非加熱『楽天グルメ大賞5度受賞(2025年)(2024年)(2023年)(2018年)(2016年)』",
       "display_name": "国産純粋はちみつ 1kg",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rwqzo.dogkm2f7.g00rwqzo.dogkn531/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaruka-foods%2Fdomestic1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaruka-foods%2Fi%2F10000233%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rwqzo.dogkm2f7.g00rwqzo.dogkn531/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaruka-foods%2Fdomestic1000%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rwqzo.dogkm2f7.g00rwqzo.dogkn531/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaruka-foods%2Fdomestic1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaruka-foods%2Fi%2F10000233%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "food",
       "category_label": "食品・飲料",
       "keyword": "",
@@ -9550,8 +9550,8 @@
       "title": "国産純粋はちみつ1kg｜原産国・保存方法・結晶について",
       "status": "published",
       "created_at": "2026-10-09T10:04:53+09:00",
-      "updated_at": "2026-10-09T10:04:53+09:00",
-      "last_checked_at": "2026-10-09T10:04:53+09:00",
+      "updated_at": "2026-11-04T10:00:03+09:00",
+      "last_checked_at": "2026-11-04T10:00:03+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 8,
@@ -9561,7 +9561,9 @@
         "../../../products/food/kouragumi-10000855/",
         "../../../products/food/sanwa-junkei-10000536/"
       ],
-      "review_changes": 4
+      "review_changes": 4,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "granbeautyon-line:10000024": {
       "item_code": "granbeautyon-line:10000024",
@@ -9569,7 +9571,7 @@
       "item_name": "マラソン限定＼3,500円OFF／正規品【1位獲得】ラッシュアディクト アイラッシュコンディショニングセラム アドバンス 5ml まつ毛美容液 Lashaddict リーフレット シリアルナンバー QRコード付き",
       "display_name": "ラッシュアディクト アイラッシュコンディショニングセラム",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tg13o.dogkmc1d.g00tg13o.dogknc07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgranbeautyon-line%2F0012250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgranbeautyon-line%2Fi%2F10000024%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tg13o.dogkmc1d.g00tg13o.dogknc07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgranbeautyon-line%2F0012250%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tg13o.dogkmc1d.g00tg13o.dogknc07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgranbeautyon-line%2F0012250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgranbeautyon-line%2Fi%2F10000024%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "beauty",
       "category_label": "美容・スキンケア",
       "keyword": "",
@@ -9613,8 +9615,8 @@
       "title": "夜1回、上まつ毛の生え際に使う美容液｜ラッシュアディクト アドバンス 5ml",
       "status": "published",
       "created_at": "2026-10-09T10:06:26+09:00",
-      "updated_at": "2026-10-15T10:18:06+09:00",
-      "last_checked_at": "2026-10-09T10:06:26+09:00",
+      "updated_at": "2026-11-04T10:00:04+09:00",
+      "last_checked_at": "2026-11-04T10:00:04+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 1,
@@ -9624,7 +9626,9 @@
         "../../../products/beauty/attenir-10000250/",
         "../../../products/beauty/fancl-shop-10009046/"
       ],
-      "review_changes": 5
+      "review_changes": 5,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "kouragumi:10001546": {
       "item_code": "kouragumi:10001546",
@@ -9632,7 +9636,7 @@
       "item_name": "10/9/1:59まで★半額クーポンで11,960円⇒送料無料5,980円！【背ワタなし】希少な特大むきえび業務用たっぷり2kg食べ放題♪（1kg/解凍後800g×2袋入り） 【海老】【むきえび】【ムキエビ】 【P半】",
       "display_name": "10/9/1:59まで",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.dogkm7f6.g00r77to.dogkn92c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F200112%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001546%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.dogkm7f6.g00r77to.dogkn92c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F200112%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.dogkm7f6.g00r77to.dogkn92c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F200112%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001546%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "food",
       "category_label": "食品・飲料",
       "keyword": "",
@@ -9678,8 +9682,8 @@
       "title": "背ワタなし特大むきえび2kg前後｜内容量・解凍方法を確認",
       "status": "published",
       "created_at": "2026-10-09T10:07:36+09:00",
-      "updated_at": "2026-10-09T10:07:36+09:00",
-      "last_checked_at": "2026-10-09T10:07:36+09:00",
+      "updated_at": "2026-11-04T10:00:05+09:00",
+      "last_checked_at": "2026-11-04T10:00:05+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 5,
@@ -9689,7 +9693,9 @@
         "../../../products/food/matsuya-10000085/",
         "../../../products/food/isa-10001664/"
       ],
-      "review_changes": 4
+      "review_changes": 4,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "sonoshokuan:10000346": {
       "item_code": "sonoshokuan:10000346",
@@ -9697,7 +9703,7 @@
       "item_name": "10/9/1:59まで★半額クーポンで2,160円⇒送料無料1,080円！無添加＆砂糖不使用！ドライレーズンたっぷり900g食べf放題♪ ドライフルーツ ウズベキスタン産 大容量 お徳用 業務用【P半】",
       "display_name": "10/9/1:59まで ドライフルーツ ウズベキスタン産 大容量 お徳用 業務用",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u0eto.dogkmd9f.g00u0eto.dogkncfb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsonoshokuan%2F900097-l%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsonoshokuan%2Fi%2F10000346%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u0eto.dogkmd9f.g00u0eto.dogkncfb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsonoshokuan%2F900097-l%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u0eto.dogkmd9f.g00u0eto.dogkncfb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsonoshokuan%2F900097-l%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsonoshokuan%2Fi%2F10000346%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "food",
       "category_label": "食品・飲料",
       "keyword": "",
@@ -9743,8 +9749,8 @@
       "title": "ウズベキスタン産ドライレーズン900g｜原材料・保存・食べ方",
       "status": "published",
       "created_at": "2026-10-09T10:08:46+09:00",
-      "updated_at": "2026-11-01T10:04:48+09:00",
-      "last_checked_at": "2026-10-09T10:08:46+09:00",
+      "updated_at": "2026-11-04T10:00:08+09:00",
+      "last_checked_at": "2026-11-04T10:00:08+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 1,
@@ -9754,7 +9760,9 @@
         "../../../products/food/calinuts-10000152/",
         "../../../products/food/shizennoyakata-10007292/"
       ],
-      "review_changes": 4
+      "review_changes": 4,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "bruno-official:10000325": {
       "item_code": "bruno-official:10000325",
@@ -9762,7 +9770,7 @@
       "item_name": "★公式限定特典あり★【10%OFF】【BRUNO 公式】 ホットプレート 鍋 ブルーノ コンパクト プレート2種 セラミックコート鍋 一人用 焼肉 おしゃれ 最大250℃ 無段階調整 BOE021 brunoメッセージカード 対応 引っ越し祝い 入学祝い",
       "display_name": "ホットプレート 鍋 ブルーノ コンパクト プレート2種 セラミックコート鍋",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tf8to.dogkmd43.g00tf8to.dogkn6a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbruno-official%2F1702748%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbruno-official%2Fi%2F10000325%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tf8to.dogkmd43.g00tf8to.dogkn6a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbruno-official%2F1702748%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tf8to.dogkmd43.g00tf8to.dogkn6a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbruno-official%2F1702748%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbruno-official%2Fi%2F10000325%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "appliances",
       "category_label": "家電",
       "keyword": "",
@@ -9807,8 +9815,8 @@
       "title": "ブルーノ コンパクトホットプレート鍋セット｜付属品・サイズ・温度",
       "status": "published",
       "created_at": "2026-10-09T10:09:50+09:00",
-      "updated_at": "2026-11-01T10:04:48+09:00",
-      "last_checked_at": "2026-10-09T10:09:50+09:00",
+      "updated_at": "2026-11-04T10:00:09+09:00",
+      "last_checked_at": "2026-11-04T10:00:09+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 2,
@@ -9818,7 +9826,9 @@
         "../../../products/kitchen/kitchenavi-10000414/",
         "../../../products/appliances/katushop-10000129/"
       ],
-      "review_changes": 2
+      "review_changes": 2,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "decencia:10000014": {
       "item_code": "decencia:10000014",
@@ -9826,7 +9836,7 @@
       "item_name": "【公式店】ディセンシア リンクルO／L コンセントレート 敏感肌 しわ オイル状美容液 オイル コラーゲン 保湿 アルコールフリー DECENCIA エイジングケア 正規品",
       "display_name": "ディセンシア リンクルO／L コンセントレート",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uhklo.dogkm306.g00uhklo.dogkne7d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecencia%2Fd0009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdecencia%2Fi%2F10000014%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uhklo.dogkm306.g00uhklo.dogkne7d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecencia%2Fd0009%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uhklo.dogkm306.g00uhklo.dogkne7d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecencia%2Fd0009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdecencia%2Fi%2F10000014%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "beauty",
       "category_label": "美容・スキンケア",
       "keyword": "",
@@ -9870,8 +9880,8 @@
       "title": "ディセンシア リンクルO／L コンセントレート｜特徴と使い方",
       "status": "published",
       "created_at": "2026-10-09T10:10:55+09:00",
-      "updated_at": "2026-11-01T10:04:48+09:00",
-      "last_checked_at": "2026-10-09T10:10:55+09:00",
+      "updated_at": "2026-11-04T10:00:10+09:00",
+      "last_checked_at": "2026-11-04T10:00:10+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 6,
@@ -9881,7 +9891,9 @@
         "../../../products/mens-beauty/suntorywellness-10000443/",
         "../../../products/beauty/attenir-10000250/"
       ],
-      "review_changes": 5
+      "review_changes": 5,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "ponopono:10001822": {
       "item_code": "ponopono:10001822",
@@ -9889,7 +9901,7 @@
       "item_name": "【楽天ランキング1位】 スリーパー フランネル ボア or ガーゼ 選べる 袖あり 袖なし 2WAY 冬用 着る毛布 防寒 秋 冬 赤ちゃん キッズ ベビー 子供 パジャマ 新生児",
       "display_name": "スリーパー フランネル ボア ガーゼ 袖あり 袖なし 2WAY 赤ちゃん",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00su4bo.dogkm666.g00su4bo.dogkn537/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fponopono%2F303005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fponopono%2Fi%2F10001822%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00su4bo.dogkm666.g00su4bo.dogkn537/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fponopono%2F303005%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00su4bo.dogkm666.g00su4bo.dogkn537/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fponopono%2F303005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fponopono%2Fi%2F10001822%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "baby",
       "category_label": "育児・ベビー用品",
       "keyword": "",
@@ -9937,8 +9949,8 @@
       "title": "ベビースリーパーの選び方｜フランネル・ボア・ガーゼとサイズ",
       "status": "published",
       "created_at": "2026-10-09T10:12:07+09:00",
-      "updated_at": "2026-11-01T10:04:48+09:00",
-      "last_checked_at": "2026-10-09T10:12:07+09:00",
+      "updated_at": "2026-11-04T10:00:12+09:00",
+      "last_checked_at": "2026-11-04T10:00:12+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 2,
@@ -9948,7 +9960,9 @@
         "../../../products/interior/dondon-10001586/",
         "../../../products/fashion/sockkobe-10014431/"
       ],
-      "review_changes": 2
+      "review_changes": 2,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "netbaby:10029707": {
       "item_code": "netbaby:10029707",
@@ -10002,8 +10016,8 @@
       "title": "メリーズ ファーストプレミアムパンツ｜サイズ・4個入りを確認",
       "status": "published",
       "created_at": "2026-10-09T10:13:40+09:00",
-      "updated_at": "2026-10-20T10:18:07+09:00",
-      "last_checked_at": "2026-10-09T10:13:40+09:00",
+      "updated_at": "2026-11-04T10:00:14+09:00",
+      "last_checked_at": "2026-11-04T10:00:14+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 3,
@@ -10013,7 +10027,8 @@
         "../../../products/baby/lecdirect-10001749/",
         "../../../products/baby/kurashikenkou-10225492/"
       ],
-      "review_changes": 4
+      "review_changes": 4,
+      "missing_count": 1
     },
     "wakuwakuen:10000394": {
       "item_code": "wakuwakuen:10000394",
@@ -10217,16 +10232,16 @@
       "title": "広島県産冷凍かき1kg｜解凍後の量・使い方・保存方法",
       "status": "published",
       "created_at": "2026-10-10T10:06:05+09:00",
-      "updated_at": "2026-10-10T10:06:05+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-10-10T10:06:05+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 0,
       "related": [
+        "../../../products/beauty/rosette-shop-10000018/",
         "../../../products/food/kouragumi-10000855/",
         "../../../products/food/sanwa-junkei-10000536/",
-        "../../../products/food/matsuya-10000085/",
-        "../../../products/food/isa-10001664/"
+        "../../../products/food/matsuya-10000085/"
       ],
       "review_changes": 4
     },
@@ -16321,16 +16336,16 @@
       "title": "クノール 贅沢野菜 2026 ヌーヴォーコーン｜内容量・原材料",
       "status": "published",
       "created_at": "2026-10-19T10:09:23+09:00",
-      "updated_at": "2026-10-19T10:09:23+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-10-19T10:09:23+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 1,
       "related": [
         "../../../products/food/kouragumi-10001520/",
+        "../../../products/food/saibou-10001724/",
         "../../../products/food/sonoshokuan-10000346/",
-        "../../../products/baby/netbaby-10028658/",
-        "../../../products/baby/netbaby-10028506/"
+        "../../../products/baby/netbaby-10028658/"
       ],
       "review_changes": 5
     },
@@ -17358,16 +17373,16 @@
       "title": "10年保存水 1.8l 12本入の特徴と備蓄計画の立て方",
       "status": "published",
       "created_at": "2026-10-31T10:01:44+09:00",
-      "updated_at": "2026-11-01T10:04:47+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-10-31T10:01:44+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 1,
       "related": [
+        "../../../products/food/kurashido-10000448/",
+        "../../../products/food/saibou-10001724/",
         "../../../products/living/r1-shop-10000062/",
-        "../../../products/sports-outdoor/h2brothers-10001880/",
-        "../../../products/living/pykespeak-10002322/",
-        "../../../products/living/hiromifashionhouse-10005004/"
+        "../../../products/sports-outdoor/h2brothers-10001880/"
       ],
       "review_changes": 1
     },
@@ -17421,16 +17436,16 @@
       "title": "美粉屋ちょーぐると 乳酸菌飲料の特徴と成分",
       "status": "published",
       "created_at": "2026-10-31T10:02:05+09:00",
-      "updated_at": "2026-11-01T10:04:47+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-10-31T10:02:05+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 4,
       "related": [
         "../../../products/health/kyunan-10002008/",
+        "../../../products/food/kumamoto-food-10003339/",
         "../../../products/food/seedcoms-10004174/",
-        "../../../products/health/luckyspread-10000001/",
-        "../../../products/health/sp100-10000389/"
+        "../../../products/health/luckyspread-10000001/"
       ],
       "review_changes": 1
     },
@@ -17551,16 +17566,16 @@
       "title": "防災士監修の簡易トイレセット｜長期保存と消臭機能の備え",
       "status": "published",
       "created_at": "2026-10-31T10:02:52+09:00",
-      "updated_at": "2026-11-01T10:04:47+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-10-31T10:02:52+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 2,
       "related": [
         "../../../products/food/akol-10000484/",
-        "../../../products/living/pykespeak-10002322/",
-        "../../../products/living/hiromifashionhouse-10005004/",
-        "../../../products/sports-outdoor/h2brothers-10001880/"
+        "../../../products/food/kurashido-10000448/",
+        "../../../products/living/bousaiyouhin-oshare-10000164/",
+        "../../../products/living/pykespeak-10002322/"
       ],
       "review_changes": 2
     },
@@ -17808,16 +17823,16 @@
       "title": "簡易トイレセットを備える前に。非常用防災トイレの特徴",
       "status": "published",
       "created_at": "2026-10-31T10:04:19+09:00",
-      "updated_at": "2026-11-01T10:04:47+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-10-31T10:04:19+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 0,
       "related": [
+        "../../../products/living/nagomilab-10000046/",
         "../../../products/living/pykespeak-10002322/",
-        "../../../products/food/akol-10000484/",
-        "../../../products/living/r1-shop-10000062/",
-        "../../../products/sports-outdoor/h2brothers-10001880/"
+        "../../../products/food/saibou-10001724/",
+        "../../../products/food/akol-10000484/"
       ],
       "review_changes": 2
     },
@@ -18194,16 +18209,16 @@
       "title": "簡易トイレ・非常用トイレ｜15年保存の防災グッズを備える",
       "status": "published",
       "created_at": "2026-11-01T10:02:50+09:00",
-      "updated_at": "2026-11-01T10:04:47+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-11-01T10:02:50+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 1,
       "related": [
         "../../../products/food/akol-10000484/",
+        "../../../products/food/kurashido-10000448/",
         "../../../products/living/pykespeak-10002322/",
-        "../../../products/living/hiromifashionhouse-10005004/",
-        "../../../products/living/r1-shop-10000062/"
+        "../../../products/living/nagomilab-10000046/"
       ],
       "review_changes": 0
     },
@@ -18257,16 +18272,16 @@
       "title": "簡易トイレの選び方！非常用トイレを備えるためのポイント",
       "status": "published",
       "created_at": "2026-11-01T10:03:10+09:00",
-      "updated_at": "2026-11-01T10:03:10+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-11-01T10:03:10+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 1,
       "related": [
+        "../../../products/living/nagomilab-10000046/",
         "../../../products/food/akol-10000484/",
-        "../../../products/sports-outdoor/h2brothers-10001880/",
-        "../../../products/living/hiromifashionhouse-10005004/",
-        "../../../products/living/r1-shop-10000062/"
+        "../../../products/food/kurashido-10000448/",
+        "../../../products/sports-outdoor/h2brothers-10001880/"
       ],
       "review_changes": 1
     },
@@ -18322,7 +18337,7 @@
       "title": "アラビア ルノ フロストベリー 16.5cmプレートの特徴と使い方",
       "status": "published",
       "created_at": "2026-11-01T10:03:32+09:00",
-      "updated_at": "2026-11-02T10:05:07+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-11-01T10:03:32+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
@@ -18331,7 +18346,7 @@
         "../../../products/kitchen/scope-10052257/",
         "../../../products/kitchen/scope-10086833/",
         "../../../products/kitchen/scope-10069461/",
-        "../../../products/kitchen/roomy-10015766/"
+        "../../../products/kitchen/scope-10052259/"
       ],
       "review_changes": 1
     },
@@ -18386,7 +18401,7 @@
       "title": "アラビア ルノ ティーカップ フロストベリーの特徴と使い方",
       "status": "published",
       "created_at": "2026-11-01T10:03:58+09:00",
-      "updated_at": "2026-11-02T10:05:07+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-11-01T10:03:58+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
@@ -18395,7 +18410,7 @@
         "../../../products/kitchen/scope-10069838/",
         "../../../products/kitchen/scope-10052257/",
         "../../../products/kitchen/scope-10086833/",
-        "../../../products/kitchen/roomy-10015766/"
+        "../../../products/kitchen/scope-10052259/"
       ],
       "review_changes": 1
     },
@@ -18896,7 +18911,7 @@
       "title": "アラビア ルノ オーバルプレート 25cmの特徴と使い方",
       "status": "published",
       "created_at": "2026-11-02T10:03:36+09:00",
-      "updated_at": "2026-11-02T10:05:07+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-11-02T10:03:36+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
@@ -18905,7 +18920,7 @@
         "../../../products/kitchen/scope-10069838/",
         "../../../products/kitchen/scope-10086833/",
         "../../../products/kitchen/scope-10069461/",
-        "../../../products/kitchen/roomy-10015766/"
+        "../../../products/kitchen/scope-10052259/"
       ],
       "review_changes": 2
     },
@@ -19151,7 +19166,7 @@
       "title": "アラビア ルノ ボウル 13cm フロストベリーの特徴とサイズ感",
       "status": "published",
       "created_at": "2026-11-02T10:05:06+09:00",
-      "updated_at": "2026-11-02T10:05:06+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
       "last_checked_at": "2026-11-02T10:05:06+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
@@ -19159,8 +19174,647 @@
       "related": [
         "../../../products/kitchen/scope-10069838/",
         "../../../products/kitchen/scope-10052257/",
-        "../../../products/kitchen/scope-10069461/",
-        "../../../products/appliances/bruno-official-10000325/"
+        "../../../products/kitchen/scope-10052259/",
+        "../../../products/kitchen/scope-10069461/"
+      ],
+      "review_changes": 1
+    },
+    "saibou:10001724": {
+      "item_code": "saibou:10001724",
+      "slug": "saibou-10001724",
+      "item_name": "【予約販売：12月2日頃より順次発送予定】5年保存の非常食セット 7日分18種類21品をセットにした 非常食7日間基本セット災害食 防災食 防災セットにも",
+      "display_name": "5年保存の非常食セット 7日分18種類21品をセットにした 非常食7日間基本セット災害食",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ps37o.dogkmb7c.g00ps37o.dogknb6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsaibou%2F10001724%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsaibou%2Fi%2F10001724%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ps37o.dogkmb7c.g00ps37o.dogknb6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsaibou%2F10001724%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "food",
+      "category_label": "食品・飲料",
+      "keyword": "",
+      "product_type": "非常食セット",
+      "keywords": [
+        "非常食セット",
+        "5年保存",
+        "防災食",
+        "アルファ米",
+        "保存パン",
+        "災害食"
+      ],
+      "related_needs": [
+        "保存水",
+        "簡易トイレ",
+        "防災リュック",
+        "ウェットティッシュ"
+      ],
+      "primary_score": 65.1,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 10.3,
+        "rating": 9.8,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 69
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 92.1,
+      "lp_path": "products/food/saibou-10001724/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/food/saibou-10001724/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/saibou/cabinet/hijoshoku/set/7kihon-top7.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/saibou/cabinet/hijoshoku/set/7kihon-2.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/saibou/cabinet/hijoshoku/set/7kihon-3-5.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "5年保存の非常食セット 7日分18種類21品のセット内容と特徴",
+      "status": "published",
+      "created_at": "2026-11-04T10:02:02+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
+      "last_checked_at": "2026-11-04T10:02:02+09:00",
+      "fail_count": 0,
+      "voice": "要点先出しの簡潔調",
+      "auto_fixes": 1,
+      "related": [
+        "../../../products/food/akol-10000484/",
+        "../../../products/food/kurashido-10000448/",
+        "../../../products/living/hiromifashionhouse-10005004/",
+        "../../../products/living/r1-shop-10000062/"
+      ],
+      "review_changes": 2
+    },
+    "kurashido:10000448": {
+      "item_code": "kurashido:10000448",
+      "slug": "kurashido-10000448",
+      "item_name": "【 長期保存お菓子もらえる！ 】 非常食 36食セット パン 5年保存 おにぎり 4人家族 3日分 非常 食 美味しい 長持ち 保存食 防災 防災食 防災グッズ 防災セット 食品 尾西 尾西食品 尾西のひだまりパン 防災食セット アルファ米 災害 3日",
+      "display_name": "非常食 36食セット パン 5年保存 おにぎり 4人家族 3日分",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t34mo.dogkm92b.g00t34mo.dogkn993/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashido%2F15-1100n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashido%2Fi%2F10000448%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t34mo.dogkm92b.g00t34mo.dogkn993/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashido%2F15-1100n%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "food",
+      "category_label": "食品・飲料",
+      "keyword": "",
+      "product_type": "非常食セット",
+      "keywords": [
+        "非常食セット",
+        "5年保存",
+        "4人家族",
+        "3日分",
+        "アルファ米",
+        "防災グッズ"
+      ],
+      "related_needs": [
+        "長期保存水",
+        "簡易トイレセット",
+        "防災リュック"
+      ],
+      "primary_score": 63.9,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 9.1,
+        "rating": 9.8,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 5.0,
+        "rank": 90
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 90.9,
+      "lp_path": "products/food/kurashido-10000448/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/food/kurashido-10000448/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashido/cabinet/bs/hijousyoku/imgrc0115576816.jpg?_ex=128x128"
+      ],
+      "image_count": 1,
+      "title": "非常食36食セット パン おにぎり 5年保存 4人家族3日分",
+      "status": "published",
+      "created_at": "2026-11-04T10:02:31+09:00",
+      "updated_at": "2026-11-04T10:02:31+09:00",
+      "last_checked_at": "2026-11-04T10:02:31+09:00",
+      "fail_count": 0,
+      "voice": "落ち着いた解説調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/living/hiromifashionhouse-10005004/",
+        "../../../products/food/akol-10000484/",
+        "../../../products/food/saibou-10001724/",
+        "../../../products/living/r1-shop-10000062/"
+      ],
+      "review_changes": 1
+    },
+    "rosette-shop:10000018": {
+      "item_code": "rosette-shop:10000018",
+      "slug": "rosette-shop-10000018",
+      "item_name": "【ポイント10倍★11月4日20時～】洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース 180g×5本 | 洗顔料 毛穴ケア 毛穴汚れ 泥 クレイ 黒ずみ 角栓 洗顔 泡 いちご鼻 ザラつき 角質ケア メンズ 男性 レディース 大容量 皮脂 テカリ",
+      "display_name": "ロゼット洗顔パスタ 海泥スムース 180g×5本",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u529o.dogkm9df.g00u529o.dogkn14e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks180_5ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000018%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u529o.dogkm9df.g00u529o.dogkn14e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks180_5ps%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "beauty",
+      "category_label": "美容・スキンケア",
+      "keyword": "",
+      "product_type": "洗顔フォーム",
+      "keywords": [
+        "ロゼット洗顔パスタ",
+        "海泥スムース",
+        "毛穴ケア",
+        "クレイ洗顔",
+        "洗顔フォーム 大容量",
+        "メンズ洗顔"
+      ],
+      "related_needs": [
+        "化粧水",
+        "保湿ジェル",
+        "クレンジング",
+        "泡立てネット"
+      ],
+      "primary_score": 62.7,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 8.6,
+        "rating": 9.8,
+        "price": 10,
+        "images": 10,
+        "specificity": 9.3,
+        "trend_bonus": 6.0,
+        "rank": 6
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 4
+      },
+      "final_score": 88.7,
+      "lp_path": "products/beauty/rosette-shop-10000018/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/beauty/rosette-shop-10000018/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/10856923/14096859/imgrc0124800638.jpg?_ex=128x128"
+      ],
+      "image_count": 1,
+      "title": "ロゼット洗顔パスタ 海泥スムース 5本大容量の仕様と特徴",
+      "status": "published",
+      "created_at": "2026-11-04T10:02:56+09:00",
+      "updated_at": "2026-11-04T10:02:56+09:00",
+      "last_checked_at": "2026-11-04T10:02:56+09:00",
+      "fail_count": 0,
+      "voice": "生活者目線の語りかけ調",
+      "auto_fixes": 1,
+      "related": [
+        "../../../products/beauty/attenir-10000250/",
+        "../../../products/beauty/fancl-shop-10009046/",
+        "../../../products/beauty/attenir-10000252/",
+        "../../../products/beauty/manara-10000214/"
+      ],
+      "review_changes": 1
+    },
+    "gbt-dko:10042846": {
+      "item_code": "gbt-dko:10042846",
+      "slug": "gbt-dko-10042846",
+      "item_name": "【P2倍 11/15 23:59迄】【公式 Alsace(R) 正規品】クリスマスツリー 180cm 豊富な枝数 2026ver. 樅 高級 ドイツトウヒ ツリー オーナメント なし アルザス ツリー Alsace おしゃれ ヌードツリー 北欧風 まるで本物 スリム 組み立て5分 散らからない Xmas tree",
+      "display_name": "アルザス ツリー 180cm",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qde1o.dogkm5bc.g00qde1o.dogkn9bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgbt-dko%2F25496%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgbt-dko%2Fi%2F10042846%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qde1o.dogkm5bc.g00qde1o.dogkn9bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgbt-dko%2F25496%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "interior",
+      "category_label": "収納・インテリア",
+      "keyword": "",
+      "product_type": "クリスマスツリー",
+      "keywords": [
+        "アルザスツリー",
+        "クリスマスツリー",
+        "180cm",
+        "ヌードツリー",
+        "ドイツトウヒ"
+      ],
+      "related_needs": [
+        "クリスマスオーナメント",
+        "イルミネーションライト",
+        "ツリースカート"
+      ],
+      "primary_score": 61.6,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 12.6,
+        "rating": 9.8,
+        "price": 7,
+        "images": 10,
+        "specificity": 7.2,
+        "trend_bonus": 7.0,
+        "rank": 13
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 8,
+        "lp_fit": 4
+      },
+      "final_score": 85.6,
+      "lp_path": "products/interior/gbt-dko-10042846/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/interior/gbt-dko-10042846/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/thum/25494_180.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/xmas/x25494_f2.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "アルザス ツリー 180cmの特徴とドイツトウヒの仕様",
+      "status": "published",
+      "created_at": "2026-11-04T10:03:16+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
+      "last_checked_at": "2026-11-04T10:03:16+09:00",
+      "fail_count": 0,
+      "voice": "落ち着いた解説調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/interior/gbt-dko-10042845/",
+        "../../../products/interior/dondon-10001586/",
+        "../../../products/interior/tansu-10049866/",
+        "../../../products/interior/apoloce-10000016/"
+      ],
+      "review_changes": 2
+    },
+    "kumamoto-food:10003339": {
+      "item_code": "kumamoto-food:10003339",
+      "slug": "kumamoto-food-10003339",
+      "item_name": "【クーポンで20kg⇒6,860円】令和8年産75％以上使用 米 令和8年産 無洗米 白米 選べる 5kg 10kg 20kg 40kg 新米75％使用 ブレンド米 銘柄米 コシヒカリ 森のくまさん ヒノヒカリ お米 国産 送料無料 雑穀米付 防災 備蓄 お買い物マラソン ≪配送予定に記載の日程でお届け≫",
+      "display_name": "令和8年産 新米75％使用 無洗米 白米 選べる 5kg 10kg 20kg 40kg",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qovco.dogkm077.g00qovco.dogknd44/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkumamoto-food%2F10003339%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkumamoto-food%2Fi%2F10003339%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qovco.dogkm077.g00qovco.dogknd44/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkumamoto-food%2F10003339%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "food",
+      "category_label": "食品・飲料",
+      "keyword": "",
+      "product_type": "お米",
+      "keywords": [
+        "お米",
+        "無洗米",
+        "白米",
+        "ブレンド米",
+        "銘柄米",
+        "雑穀米"
+      ],
+      "related_needs": [
+        "お米保存容器",
+        "炊飯器",
+        "保存用ジッパーバッグ",
+        "ふりかけ"
+      ],
+      "primary_score": 62.5,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 10.2,
+        "rating": 7.3,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 6.0,
+        "rank": 21
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 9,
+        "lp_fit": 4
+      },
+      "final_score": 87.5,
+      "lp_path": "products/food/kumamoto-food-10003339/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/food/kumamoto-food-10003339/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/kumamoto-food/cabinet/00954548/kome/furusatomusen/r_erhru_pts39_01_02.jpg?_ex=128x128"
+      ],
+      "image_count": 1,
+      "title": "無洗米・白米が選べる令和8年産のお米の特徴と選び方",
+      "status": "published",
+      "created_at": "2026-11-04T10:04:18+09:00",
+      "updated_at": "2026-11-04T10:04:18+09:00",
+      "last_checked_at": "2026-11-04T10:04:18+09:00",
+      "fail_count": 0,
+      "voice": "要点先出しの簡潔調",
+      "auto_fixes": 5,
+      "related": [
+        "../../../products/food/irisplaza-r-10170526/",
+        "../../../products/food/jcrops-10001511/",
+        "../../../products/food/hseason-10000260/",
+        "../../../products/food/komatirain-10000001/"
+      ],
+      "review_changes": 1
+    },
+    "netbaby:10052538": {
+      "item_code": "netbaby:10052538",
+      "slug": "netbaby-10052538",
+      "item_name": "【企画品】明治ほほえみらくらくキューブ(27g×120袋)【明治ほほえみ】",
+      "display_name": "明治ほほえみらくらくキューブ(27g×120袋)",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.dogkm463.g00pzd4o.dogkn34c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4902705132634%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10052538%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.dogkm463.g00pzd4o.dogkn34c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4902705132634%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "baby",
+      "category_label": "育児・ベビー用品",
+      "keyword": "",
+      "product_type": "粉ミルク",
+      "keywords": [
+        "明治ほほえみ",
+        "らくらくキューブ",
+        "粉ミルク",
+        "育児用品",
+        "キューブミルク"
+      ],
+      "related_needs": [
+        "哺乳瓶",
+        "調乳用ポット",
+        "哺乳瓶消毒グッズ",
+        "粉ミルクケース"
+      ],
+      "primary_score": 61.8,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 7.5,
+        "rating": 9.3,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 6.0,
+        "rank": 23
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 88.8,
+      "lp_path": "products/baby/netbaby-10052538/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/baby/netbaby-10052538/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/634/4902705132634.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/634/4902705132634-2.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/634/4902705132634-3.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "明治ほほえみらくらくキューブ(27g×120袋)の製品情報と調乳方法",
+      "status": "published",
+      "created_at": "2026-11-04T10:05:58+09:00",
+      "updated_at": "2026-11-04T10:05:58+09:00",
+      "last_checked_at": "2026-11-04T10:05:58+09:00",
+      "fail_count": 0,
+      "voice": "落ち着いた解説調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/baby/netbaby-10028658/",
+        "../../../products/baby/dwinguler2023-10000000/",
+        "../../../products/baby/ebaby-select-10001543/",
+        "../../../products/baby/plusiine-10001461/"
+      ],
+      "review_changes": 3
+    },
+    "bousaiyouhin-oshare:10000164": {
+      "item_code": "bousaiyouhin-oshare:10000164",
+      "slug": "bousaiyouhin-oshare-10000164",
+      "item_name": "＼ クーポンで 50%OFF !／ 防災セット 2人用 サバイバル 60点 2人 の命を守る 防災グッズ 防災リュック 防災 【 防災バッグ 災害グッズ 1人用 1人 3人用 3人 家族用 家族 女性用 子供用 中身だけ 災害 非常用持ち出し袋 非常食 ランキング 1位 防災用品 オシャレ 】",
+      "display_name": "防災セット 2人用 サバイバル 60点",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00srf1o.dogkm47a.g00srf1o.dogkna9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbousaiyouhin-oshare%2F301%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbousaiyouhin-oshare%2Fi%2F10000164%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00srf1o.dogkm47a.g00srf1o.dogkna9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbousaiyouhin-oshare%2F301%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "living",
+      "category_label": "生活雑貨・日用品",
+      "keyword": "",
+      "product_type": "防災セット",
+      "keywords": [
+        "防災セット",
+        "防災グッズ",
+        "2人用",
+        "非常持ち出し袋",
+        "サバイバル"
+      ],
+      "related_needs": [
+        "追加の非常食",
+        "ヘルメット",
+        "携帯浄水器",
+        "耐震マット"
+      ],
+      "primary_score": 63.6,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 12.0,
+        "rating": 9.6,
+        "price": 7,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 76
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 90.6,
+      "lp_path": "products/living/bousaiyouhin-oshare-10000164/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/living/bousaiyouhin-oshare-10000164/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/bousaiyouhin-oshare/cabinet/08019487/11727742/301new-top-50.jpg?_ex=128x128"
+      ],
+      "image_count": 1,
+      "title": "防災セット 2人用 サバイバル 60点の中身と仕様をチェック",
+      "status": "published",
+      "created_at": "2026-11-04T10:06:59+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
+      "last_checked_at": "2026-11-04T10:06:59+09:00",
+      "fail_count": 0,
+      "voice": "生活者目線の語りかけ調",
+      "auto_fixes": 2,
+      "related": [
+        "../../../products/living/r1-shop-10000062/",
+        "../../../products/living/pykespeak-10002322/",
+        "../../../products/living/nagomilab-10000046/",
+        "../../../products/living/e-kit-10042595/"
+      ],
+      "review_changes": 2
+    },
+    "gbt-dko:10042845": {
+      "item_code": "gbt-dko:10042845",
+      "slug": "gbt-dko-10042845",
+      "item_name": "【P2倍 11/15 23:59迄】【公式 Alsace(R) 正規品】 クリスマスツリー 150cm 豊富な枝数 2026ver. 樅 高級 ドイツトウヒ ツリー オーナメント なし アルザス ツリー Alsace おしゃれ ヌードツリー 北欧風 まるで本物 スリム 組み立て5分",
+      "display_name": "アルザス ツリー 150cm ドイツトウヒ",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qde1o.dogkm5bc.g00qde1o.dogkn9bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgbt-dko%2F25495%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgbt-dko%2Fi%2F10042845%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qde1o.dogkm5bc.g00qde1o.dogkn9bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgbt-dko%2F25495%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "interior",
+      "category_label": "収納・インテリア",
+      "keyword": "",
+      "product_type": "クリスマスツリー",
+      "keywords": [
+        "アルザスツリー",
+        "クリスマスツリー 150cm",
+        "ドイツトウヒ",
+        "ヌードツリー",
+        "北欧風クリスマスツリー"
+      ],
+      "related_needs": [
+        "クリスマスオーナメント",
+        "イルミネーションライト",
+        "ツリースカート"
+      ],
+      "primary_score": 62.2,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 13.2,
+        "rating": 9.8,
+        "price": 7,
+        "images": 10,
+        "specificity": 7.2,
+        "trend_bonus": 5.0,
+        "rank": 50
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 88.2,
+      "lp_path": "products/interior/gbt-dko-10042845/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/interior/gbt-dko-10042845/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/thum/25494_150.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/xmas/x25494_f2.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "アルザス ツリー 150cm ドイツトウヒ ダイコン卸直販部",
+      "status": "published",
+      "created_at": "2026-11-04T10:08:26+09:00",
+      "updated_at": "2026-11-04T10:08:26+09:00",
+      "last_checked_at": "2026-11-04T10:08:26+09:00",
+      "fail_count": 0,
+      "voice": "落ち着いた解説調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/interior/gbt-dko-10042846/",
+        "../../../products/interior/dondon-10001586/",
+        "../../../products/interior/tansu-10049866/",
+        "../../../products/interior/apoloce-10000016/"
+      ],
+      "review_changes": 1
+    },
+    "scope:10052259": {
+      "item_code": "scope:10052259",
+      "slug": "scope-10052259",
+      "item_name": "【12月11日9:59まで期間限定価格！さらに20%オフクーポン対象】アラビア ルノ ボウル 17cm フロストベリー [ Arabia Runo Frostberry ] スープボウル サラダボウル 北欧食器",
+      "display_name": "アラビア ルノ ボウル 17cm フロストベリー",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pkggo.dogkmb9d.g00pkggo.dogknda2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fscope%2Fara24a11111%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fscope%2Fi%2F10052259%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pkggo.dogkmb9d.g00pkggo.dogknda2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fscope%2Fara24a11111%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "kitchen",
+      "category_label": "キッチン",
+      "keyword": "",
+      "product_type": "ボウル",
+      "keywords": [
+        "アラビア",
+        "ルノ",
+        "フロストベリー",
+        "ボウル",
+        "北欧食器"
+      ],
+      "related_needs": [
+        "プレート",
+        "マグカップ",
+        "カトラリー",
+        "テーブルクロス"
+      ],
+      "primary_score": 63.2,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 8.2,
+        "rating": 10.0,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 78
+      },
+      "ai_scores": {
+        "problem_solving": 11,
+        "target_clarity": 8,
+        "lp_fit": 4
+      },
+      "final_score": 86.2,
+      "lp_path": "products/kitchen/scope-10052259/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/kitchen/scope-10052259/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/scope/cabinet/arabia2/ara24a11111_a_im01.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/scope/cabinet/arabia/ara24a11111_a_im02.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "アラビア ルノ ボウル 17cm フロストベリー scope version.R",
+      "status": "published",
+      "created_at": "2026-11-04T10:09:51+09:00",
+      "updated_at": "2026-11-04T10:09:51+09:00",
+      "last_checked_at": "2026-11-04T10:09:51+09:00",
+      "fail_count": 0,
+      "voice": "生活者目線の語りかけ調",
+      "auto_fixes": 1,
+      "related": [
+        "../../../products/kitchen/scope-10069838/",
+        "../../../products/kitchen/scope-10052257/",
+        "../../../products/kitchen/scope-10086833/",
+        "../../../products/kitchen/scope-10069461/"
+      ],
+      "review_changes": 3
+    },
+    "nagomilab:10000046": {
+      "item_code": "nagomilab:10000046",
+      "slug": "nagomilab-10000046",
+      "item_name": "【楽天ランキング1位】【防災士共同開発】簡易トイレ 非常用 トイレ 非常用トイレ 凝固剤 持ち出し袋 50回 100回 緊急簡易トイレ消臭 非常用簡易トイレ 抗菌 滅菌 清潔 臭わない 抗菌消臭簡易トイレ 災害用トイレ 日本製 防災 防災グッズ 防災用品 地震 災害 防災のミカタ",
+      "display_name": "簡易トイレ 非常用 トイレ 凝固剤 50回 100回",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s56go.dogkmd9a.g00s56go.dogknef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnagomilab%2Ftg11550z%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnagomilab%2Fi%2F10000046%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s56go.dogkmd9a.g00s56go.dogknef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnagomilab%2Ftg11550z%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "living",
+      "category_label": "生活雑貨・日用品",
+      "keyword": "",
+      "product_type": "簡易トイレ",
+      "keywords": [
+        "簡易トイレ",
+        "非常用トイレ",
+        "凝固剤",
+        "防災グッズ",
+        "災害用トイレ"
+      ],
+      "related_needs": [
+        "非常用持ち出し袋",
+        "長期保存水",
+        "非常用食料品",
+        "ランタン"
+      ],
+      "primary_score": 61.0,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 9.3,
+        "rating": 6.7,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 6.0,
+        "rank": 24
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 88.0,
+      "lp_path": "products/living/nagomilab-10000046/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/living/nagomilab-10000046/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/nagomilab/cabinet/shohin01/50_100sum.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/nagomilab/cabinet/shohin01/tatsuzin2-50.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "非常用簡易トイレの選び方と50回・100回セットの特徴",
+      "status": "published",
+      "created_at": "2026-11-04T10:11:37+09:00",
+      "updated_at": "2026-11-04T10:11:37+09:00",
+      "last_checked_at": "2026-11-04T10:11:37+09:00",
+      "fail_count": 0,
+      "voice": "落ち着いた解説調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/living/hiromifashionhouse-10005004/",
+        "../../../products/living/pykespeak-10002322/",
+        "../../../products/food/akol-10000484/",
+        "../../../products/sports-outdoor/h2brothers-10001880/"
       ],
       "review_changes": 1
     }
@@ -19169,13 +19823,13 @@
     "next_category": 0,
     "next_ranking_source": 0,
     "gemini_calls": {
-      "2026-10-28": 0,
       "2026-10-29": 0,
       "2026-10-30": 0,
       "2026-10-31": 31,
       "2026-11-01": 31,
       "2026-11-02": 31,
-      "2026-11-03": 0
+      "2026-11-03": 0,
+      "2026-11-04": 34
     }
   }
 }
