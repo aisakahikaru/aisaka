@@ -8,7 +8,7 @@
     "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzyto.dogkm71b.g00tzyto.dogkne4a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaitekistore%2Fbian01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaitekistore%2Fi%2F10000835%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
     "shop_name": "GU MODEベビー館",
     "price": 5860,
-    "review_count": 5565,
+    "review_count": 5660,
     "review_average": 4.56,
     "tax_flag": 0,
     "postage_flag": 0,
@@ -31,7 +31,7 @@
         "value": "高密度ポリエチレン"
       }
     ],
-    "fetched_at": "2026-10-14T10:00:05+09:00"
+    "fetched_at": "2026-11-13T10:00:11+09:00"
   },
   "content": {
     "title": "ベビーサークルのサイズと使い方｜7ways置くだけゲート",
@@ -177,15 +177,8 @@
   },
   "image_plan": [
     {
-      "url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kaitekistore/cabinet/12911092/bian01-15.jpg?_ex=128x128",
-      "role": "main",
-      "alt": "室内に設置された白いベビーサークル",
-      "caption": "リビングにベビーサークルを設置した様子",
-      "seen_by_ai": true
-    },
-    {
       "url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kaitekistore/cabinet/08183758/10199269/10925835/bianshow.jpg?_ex=128x128",
-      "role": "usage",
+      "role": "main",
       "alt": "室内で使われているベビーサークルの例",
       "caption": "複数の室内での設置例が並んでいます",
       "seen_by_ai": true
