@@ -178,15 +178,8 @@
   },
   "image_plan": [
     {
-      "url": "https://thumbnail.image.rakuten.co.jp/@0_gold/byurjapan/event/2610mt2/daily_aquaserummask.jpg?_ex=128x128",
-      "role": "main",
-      "alt": "ByURのシートマスク容器と取り出したシート",
-      "caption": "容器と、重ねたシートマスクが写っています。",
-      "seen_by_ai": true
-    },
-    {
       "url": "https://thumbnail.image.rakuten.co.jp/@0_mall/byurjapan/cabinet/09521667/dailyv1/imgrc0121408202.jpg?_ex=128x128",
-      "role": "detail",
+      "role": "main",
       "alt": "ByURのシートマスク容器と開いた容器の内部",
       "caption": "複数の色の容器と、開いた容器の内部が写っています。",
       "seen_by_ai": true
