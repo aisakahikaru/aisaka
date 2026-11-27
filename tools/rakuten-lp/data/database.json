@@ -1001,10 +1001,10 @@
       "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.dogkm463.g00pzd4o.dogkn34c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404196%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "other",
       "status": "excluded",
-      "reason": "品質チェック不合格: FAQが2つ未満",
+      "reason": "LPに使える画像がない",
       "primary_score": 66.8,
-      "created_at": "2026-09-26T10:06:49+09:00",
-      "updated_at": "2026-09-26T10:06:49+09:00"
+      "created_at": "2026-11-27T10:01:30+09:00",
+      "updated_at": "2026-11-27T10:01:30+09:00"
     },
     "beautypark2017:10002719": {
       "item_code": "beautypark2017:10002719",
@@ -4111,8 +4111,8 @@
       "title": "VITAS ホエイプロテイン 100｜フレーバー別の成分・容量",
       "status": "published",
       "created_at": "2026-10-01T10:02:28+09:00",
-      "updated_at": "2026-11-18T10:04:25+09:00",
-      "last_checked_at": "2026-10-20T10:00:16+09:00",
+      "updated_at": "2026-11-27T10:00:17+09:00",
+      "last_checked_at": "2026-11-27T10:00:17+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 0,
@@ -4179,8 +4179,8 @@
       "title": "PAPER ONE A4コピー用紙5,000枚｜仕様と注文条件",
       "status": "published",
       "created_at": "2026-10-01T10:03:37+09:00",
-      "updated_at": "2026-11-06T10:06:49+09:00",
-      "last_checked_at": "2026-10-20T10:00:18+09:00",
+      "updated_at": "2026-11-27T10:00:19+09:00",
+      "last_checked_at": "2026-11-27T10:00:19+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 0,
@@ -4246,7 +4246,7 @@
       "title": "割れチョコ ミックス 12種｜原材料・保存方法・購入前の確認点",
       "status": "published",
       "created_at": "2026-10-01T10:04:45+09:00",
-      "updated_at": "2026-11-22T10:04:23+09:00",
+      "updated_at": "2026-11-27T10:04:45+09:00",
       "last_checked_at": "2026-10-20T10:00:20+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
@@ -4255,7 +4255,7 @@
         "../../../products/gift/royce-10000483/",
         "../../../products/food/dripcoffee-10000044/",
         "../../../products/food/sawaicoffee-tea-10004781/",
-        "../../../products/food/dripcoffee-10000572/"
+        "../../../products/food/good-luckbin-10000355/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -6921,16 +6921,16 @@
       "title": "澤井珈琲 金と銀のブレンド｜味わい・内容量・挽き方",
       "status": "published",
       "created_at": "2026-10-05T10:05:00+09:00",
-      "updated_at": "2026-11-23T10:05:04+09:00",
+      "updated_at": "2026-11-27T10:04:45+09:00",
       "last_checked_at": "2026-11-16T10:00:14+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 0,
       "related": [
+        "../../../products/food/good-luckbin-10000355/",
         "../../../products/kitchen/roomy-10015796/",
         "../../../products/appliances/drip-pod-10000253/",
-        "../../../products/food/kouragumi-10000004/",
-        "../../../products/food/sktadv-10001169/"
+        "../../../products/food/kouragumi-10000004/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -8337,8 +8337,8 @@
       "title": "アーモンド・くるみなど4種入り｜850gミックスナッツの内容と保存方法",
       "status": "published",
       "created_at": "2026-10-07T10:06:48+09:00",
-      "updated_at": "2026-11-07T10:07:48+09:00",
-      "last_checked_at": "2026-10-20T10:00:03+09:00",
+      "updated_at": "2026-11-27T10:00:03+09:00",
+      "last_checked_at": "2026-11-27T10:00:03+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 0,
@@ -8400,9 +8400,9 @@
       ],
       "image_count": 1,
       "title": "子ども用歯ブラシ30本セット｜対象年齢・柄・サイズを確認",
-      "status": "published",
+      "status": "excluded",
       "created_at": "2026-10-07T10:08:27+09:00",
-      "updated_at": "2026-11-23T10:05:04+09:00",
+      "updated_at": "2026-11-27T10:00:06+09:00",
       "last_checked_at": "2026-10-20T10:00:05+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -8415,7 +8415,8 @@
       ],
       "review_changes": 4,
       "missing_count": 0,
-      "unavailable_count": 0
+      "unavailable_count": 0,
+      "reason": "取り下げ: 商品画像が表示できなくなった"
     },
     "officetrust:10000232": {
       "item_code": "officetrust:10000232",
@@ -8470,8 +8471,8 @@
       "title": "ペーパーワン A4コピー用紙5000枚｜仕様・注文条件",
       "status": "published",
       "created_at": "2026-10-07T10:10:18+09:00",
-      "updated_at": "2026-11-07T10:07:48+09:00",
-      "last_checked_at": "2026-10-20T10:00:06+09:00",
+      "updated_at": "2026-11-27T10:00:06+09:00",
+      "last_checked_at": "2026-11-27T10:00:06+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 0,
@@ -8537,8 +8538,8 @@
       "title": "メリーズ エアスルー パンツ3個セット｜サイズと特徴",
       "status": "published",
       "created_at": "2026-10-07T10:11:42+09:00",
-      "updated_at": "2026-11-10T10:05:14+09:00",
-      "last_checked_at": "2026-10-20T10:00:08+09:00",
+      "updated_at": "2026-11-27T10:00:09+09:00",
+      "last_checked_at": "2026-11-27T10:00:09+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 1,
@@ -8605,8 +8606,8 @@
       "title": "Air Ultra Lightシート｜ペットシーツのサイズ・吸収量を確認",
       "status": "published",
       "created_at": "2026-10-07T10:13:48+09:00",
-      "updated_at": "2026-11-16T10:06:31+09:00",
-      "last_checked_at": "2026-10-20T10:00:10+09:00",
+      "updated_at": "2026-11-27T10:00:11+09:00",
+      "last_checked_at": "2026-11-27T10:00:11+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 0,
@@ -8672,8 +8673,8 @@
       "title": "パンパースおやすみパンツ｜夜用おむつのサイズ・枚数を確認",
       "status": "published",
       "created_at": "2026-10-07T10:14:55+09:00",
-      "updated_at": "2026-11-10T10:05:14+09:00",
-      "last_checked_at": "2026-10-20T10:00:12+09:00",
+      "updated_at": "2026-11-27T10:00:13+09:00",
+      "last_checked_at": "2026-11-27T10:00:13+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 1,
@@ -8739,8 +8740,8 @@
       "title": "ブルーライトカット液晶テレビ保護パネル｜対応サイズと設置前の確認",
       "status": "published",
       "created_at": "2026-10-07T10:16:08+09:00",
-      "updated_at": "2026-10-31T10:04:47+09:00",
-      "last_checked_at": "2026-10-20T10:00:14+09:00",
+      "updated_at": "2026-11-27T10:00:16+09:00",
+      "last_checked_at": "2026-11-27T10:00:16+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 0,
@@ -15028,16 +15029,16 @@
       "title": "子供向けキャラクター歯ブラシ30本セット｜対象年齢・サイズ・絵柄",
       "status": "published",
       "created_at": "2026-10-17T10:04:59+09:00",
-      "updated_at": "2026-11-23T10:05:04+09:00",
+      "updated_at": "2026-11-27T10:04:45+09:00",
       "last_checked_at": "2026-11-21T10:00:11+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 8,
       "related": [
         "../../../products/health/d-fit-10006249/",
-        "../../../products/baby/d-fit-10007262/",
         "../../../products/baby/netbaby-10028658/",
-        "../../../products/baby/dwinguler2023-10000000/"
+        "../../../products/baby/dwinguler2023-10000000/",
+        "../../../products/baby/soyott-camp-10000031/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -15511,16 +15512,16 @@
       "title": "不織布マスクの形状・サイズを比較｜立体・プリーツ・子供用",
       "status": "published",
       "created_at": "2026-10-17T10:29:06+09:00",
-      "updated_at": "2026-11-22T10:00:08+09:00",
+      "updated_at": "2026-11-27T10:04:45+09:00",
       "last_checked_at": "2026-11-22T10:00:08+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 6,
       "related": [
         "../../../products/interior/eunicedress-10001812/",
+        "../../../products/living/shinko9868-10000157/",
         "../../../products/living/e-kit-10042595/",
-        "../../../products/living/tfi-shop-10000005/",
-        "../../../products/living/toucher-home-10000396/"
+        "../../../products/living/tfi-shop-10000005/"
       ],
       "review_changes": 2,
       "missing_count": 0,
@@ -16239,16 +16240,16 @@
       "title": "ハウスブレンド深煎りコーヒー｜味わいと内容量",
       "status": "published",
       "created_at": "2026-10-18T10:13:57+09:00",
-      "updated_at": "2026-11-24T10:00:13+09:00",
+      "updated_at": "2026-11-27T10:04:45+09:00",
       "last_checked_at": "2026-11-24T10:00:13+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 0,
       "related": [
+        "../../../products/food/good-luckbin-10000355/",
         "../../../products/food/kouragumi-10000004/",
         "../../../products/food/sktadv-10001169/",
-        "../../../products/food/kouragumi-10000855/",
-        "../../../products/food/soukaidrink-10007430/"
+        "../../../products/food/kouragumi-10000855/"
       ],
       "review_changes": 4,
       "missing_count": 0,
@@ -16439,7 +16440,7 @@
       "title": "セイロンシナモンパウダーの使い方と保存方法｜有機100g",
       "status": "published",
       "created_at": "2026-10-19T10:05:11+09:00",
-      "updated_at": "2026-11-26T10:00:05+09:00",
+      "updated_at": "2026-11-27T10:04:45+09:00",
       "last_checked_at": "2026-11-26T10:00:05+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
@@ -16447,8 +16448,8 @@
       "related": [
         "../../../products/food/toyomarket-10000219/",
         "../../../products/food/konbu-genzouya-10000772/",
-        "../../../products/food/sonoshokuan-10000346/",
-        "../../../products/appliances/subaruya-10000016/"
+        "../../../products/food/good-luckbin-10000355/",
+        "../../../products/food/sonoshokuan-10000346/"
       ],
       "review_changes": 3,
       "missing_count": 0,
@@ -17943,16 +17944,16 @@
       "title": "レコルト レインドリップコーヒーメーカーの仕様と特徴",
       "status": "published",
       "created_at": "2026-10-31T10:03:18+09:00",
-      "updated_at": "2026-11-18T10:04:24+09:00",
+      "updated_at": "2026-11-27T10:04:45+09:00",
       "last_checked_at": "2026-10-31T10:03:18+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 0,
       "related": [
+        "../../../products/food/good-luckbin-10000355/",
         "../../../products/food/sawaicoffee-tea-10004781/",
         "../../../products/food/dripcoffee-10000572/",
-        "../../../products/kitchen/roomy-10018139/",
-        "../../../products/kitchen/roomy-10015766/"
+        "../../../products/kitchen/roomy-10018139/"
       ],
       "review_changes": 1
     },
@@ -20693,16 +20694,16 @@
       "title": "Teaflex ティーフレックス グリーンティーの原材料と仕様",
       "status": "published",
       "created_at": "2026-11-05T10:04:12+09:00",
-      "updated_at": "2026-11-14T10:04:33+09:00",
+      "updated_at": "2026-11-27T10:04:44+09:00",
       "last_checked_at": "2026-11-05T10:04:12+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 2,
       "related": [
+        "../../../products/food/d-rink-hokkaido-10000139/",
         "../../../products/food/kouragumi-10000004/",
         "../../../products/food/sktadv-10001169/",
-        "../../../products/food/kouragumi-10000855/",
-        "../../../products/food/soukaidrink-10007430/"
+        "../../../products/food/kouragumi-10000855/"
       ],
       "review_changes": 3
     },
@@ -22699,7 +22700,7 @@
       "title": "P&G レノア ハピネス アロマジュエル 詰め替え 超特大サイズ 1410mL×5袋の仕様",
       "status": "published",
       "created_at": "2026-11-08T10:04:21+09:00",
-      "updated_at": "2026-11-23T10:05:04+09:00",
+      "updated_at": "2026-11-27T10:04:44+09:00",
       "last_checked_at": "2026-11-08T10:04:21+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
@@ -22708,7 +22709,7 @@
         "../../../products/living/rakuten24-11279568/",
         "../../../products/living/rakuten24-11348602/",
         "../../../products/living/rakuten24-11228829/",
-        "../../../products/living/rakuten24-11128650/"
+        "../../../products/living/rakuten24-11342601/"
       ],
       "review_changes": 3
     },
@@ -26557,16 +26558,16 @@
       "title": "Roomba 205 DustCompactor Comboの仕様や機能を確認",
       "status": "published",
       "created_at": "2026-11-14T10:04:13+09:00",
-      "updated_at": "2026-11-14T10:04:13+09:00",
+      "updated_at": "2026-11-27T10:04:44+09:00",
       "last_checked_at": "2026-11-14T10:04:13+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 1,
       "related": [
+        "../../../products/appliances/anker-10002285/",
         "../../../products/appliances/hotch-potch-10017531/",
         "../../../products/appliances/auc-risecreation-10004620/",
-        "../../../products/appliances/mpowjapan-10000823/",
-        "../../../products/appliances/subaruya-10000016/"
+        "../../../products/appliances/mpowjapan-10000823/"
       ],
       "review_changes": 3
     },
@@ -29239,16 +29240,16 @@
       "title": "有機ほうじ茶 桑茶ティーバッグの特徴と仕様を整理",
       "status": "published",
       "created_at": "2026-11-20T10:01:29+09:00",
-      "updated_at": "2026-11-20T10:01:29+09:00",
+      "updated_at": "2026-11-27T10:04:44+09:00",
       "last_checked_at": "2026-11-20T10:01:29+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 2,
       "related": [
+        "../../../products/food/good-luckbin-10000355/",
         "../../../products/food/wakuwakuen-10000494/",
         "../../../products/food/irisplaza-r-10163799/",
-        "../../../products/food/kouragumi-10000004/",
-        "../../../products/food/sktadv-10001169/"
+        "../../../products/food/kouragumi-10000004/"
       ],
       "review_changes": 3
     },
@@ -30530,16 +30531,16 @@
       "title": "ドリップコーヒー 粉 100杯 飲み比べセットの特徴",
       "status": "published",
       "created_at": "2026-11-22T10:01:21+09:00",
-      "updated_at": "2026-11-22T10:01:21+09:00",
+      "updated_at": "2026-11-27T10:04:44+09:00",
       "last_checked_at": "2026-11-22T10:01:21+09:00",
       "fail_count": 0,
       "voice": "要点先出しの簡潔調",
       "auto_fixes": 0,
       "related": [
+        "../../../products/food/good-luckbin-10000355/",
         "../../../products/food/kaisenshop-10015621/",
         "../../../products/food/kouragumi-10000004/",
-        "../../../products/food/sktadv-10001169/",
-        "../../../products/food/kouragumi-10000855/"
+        "../../../products/food/sktadv-10001169/"
       ],
       "review_changes": 2
     },
@@ -31555,16 +31556,16 @@
       "title": "UCC ドリップポッド DP3の特徴と仕様の確認",
       "status": "published",
       "created_at": "2026-11-23T10:03:40+09:00",
-      "updated_at": "2026-11-23T10:03:40+09:00",
+      "updated_at": "2026-11-27T10:04:44+09:00",
       "last_checked_at": "2026-11-23T10:03:40+09:00",
       "fail_count": 0,
       "voice": "生活者目線の語りかけ調",
       "auto_fixes": 1,
       "related": [
+        "../../../products/food/good-luckbin-10000355/",
         "../../../products/kitchen/kitchenavi-10000408/",
         "../../../products/kitchen/scope-10095805/",
-        "../../../products/kitchen/kitchenavi-10000414/",
-        "../../../products/food/sawaicoffee-tea-10004781/"
+        "../../../products/kitchen/kitchenavi-10000414/"
       ],
       "review_changes": 2
     },
@@ -32991,7 +32992,7 @@
       "title": "ワイドハイター EXパワー 漂白剤 詰め替えの仕様と特徴",
       "status": "published",
       "created_at": "2026-11-25T10:05:04+09:00",
-      "updated_at": "2026-11-25T10:05:04+09:00",
+      "updated_at": "2026-11-27T10:04:44+09:00",
       "last_checked_at": "2026-11-25T10:05:04+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
@@ -33000,7 +33001,7 @@
         "../../../products/living/rakuten24-11279568/",
         "../../../products/living/rakuten24-11348602/",
         "../../../products/living/rakuten24-11228829/",
-        "../../../products/living/rakuten24-11163653/"
+        "../../../products/living/rakuten24-11342601/"
       ],
       "review_changes": 3
     },
@@ -33182,16 +33183,16 @@
       "title": "アズマジック 浴室用ソフトブラシの特徴と仕様の確認",
       "status": "published",
       "created_at": "2026-11-26T10:02:02+09:00",
-      "updated_at": "2026-11-26T10:02:02+09:00",
+      "updated_at": "2026-11-27T10:04:44+09:00",
       "last_checked_at": "2026-11-26T10:02:02+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 2,
       "related": [
         "../../../products/pc-smartphone/anker-10001908/",
+        "../../../products/appliances/anker-10002285/",
         "../../../products/living/auc-seiketu-10000033/",
-        "../../../products/living/e-kit-10042595/",
-        "../../../products/living/tfi-shop-10000005/"
+        "../../../products/living/e-kit-10042595/"
       ],
       "review_changes": 3
     },
@@ -33647,19 +33648,664 @@
         "../../../products/haircare/beautypark2017-10002719/"
       ],
       "review_changes": 3
+    },
+    "shinko9868:10000157": {
+      "item_code": "shinko9868:10000157",
+      "slug": "shinko9868-10000157",
+      "item_name": "マスク 不織布＼セットで最安1箱498円★1位入賞／個包装 プリーツマスク 大きめ/ふつう/小さめ/子供用 使い捨てマスク 立体 耳が痛くならない 100枚～ 黒 マスク 白 防塵 敏感肌 大人用 高学年 3層 6mm平ゴム 飛沫防止 ウイルス PM2.5 花粉対策 抗菌通気 99%カット 通勤",
+      "display_name": "マスク 不織布 個包装 プリーツマスク 大きめ/ふつう/小さめ/子供用",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00thrzo.dogkm5a0.g00thrzo.dogkn219/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshinko9868%2Fmasks-daerduo2-200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshinko9868%2Fi%2F10000157%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00thrzo.dogkm5a0.g00thrzo.dogkn219/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshinko9868%2Fmasks-daerduo2-200%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "living",
+      "category_label": "生活雑貨・日用品",
+      "keyword": "",
+      "product_type": "不織布マスク",
+      "keywords": [
+        "不織布マスク",
+        "個包装",
+        "耳が痛くならない",
+        "3層構造",
+        "立体プリーツ"
+      ],
+      "related_needs": [
+        "マスクケース",
+        "除菌スプレー",
+        "携帯用ハンドジェル"
+      ],
+      "primary_score": 66.0,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 11.9,
+        "rating": 9.1,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 5.0,
+        "rank": 58
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 8,
+        "lp_fit": 4
+      },
+      "final_score": 90.0,
+      "lp_path": "products/living/shinko9868-10000157/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/living/shinko9868-10000157/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/shinko9868/cabinet/07693732/10802703/6mm_1.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/shinko9868/cabinet/07693732/10802703/6mm_2.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "不織布マスク 個包装プリーツ型のサイズと特長を整理",
+      "status": "published",
+      "created_at": "2026-11-27T10:01:30+09:00",
+      "updated_at": "2026-11-27T10:01:30+09:00",
+      "last_checked_at": "2026-11-27T10:01:30+09:00",
+      "fail_count": 0,
+      "voice": "暮らしの場面から入る描写調",
+      "auto_fixes": 1,
+      "related": [
+        "../../../products/living/cicibella-sports-10000118/",
+        "../../../products/living/e-kit-10042595/",
+        "../../../products/living/tfi-shop-10000005/",
+        "../../../products/living/toucher-home-10000396/"
+      ],
+      "review_changes": 1
+    },
+    "yokumoku:10000435": {
+      "item_code": "yokumoku:10000435",
+      "slug": "yokumoku-10000435",
+      "item_name": "【送料無料】【公式】ヨックモック サンク デリス 5種40個入 お歳暮 クリスマス ホリデー 冬ギフト 御歳暮 2026 詰め合わせ プレゼント スイーツ ギフト プチギフト クッキー 退職 洋菓子 お菓子 焼き菓子 手土産 個包装 お取り寄せ お礼 お祝い",
+      "display_name": "ヨックモック サンク デリス 5種40個入",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx6o.dogkm849.g00rvx6o.dogkn79a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011309010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokumoku%2Fi%2F10000435%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx6o.dogkm849.g00rvx6o.dogkn79a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011309010%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "gift",
+      "category_label": "ギフト",
+      "keyword": "",
+      "product_type": "クッキー詰め合わせ",
+      "keywords": [
+        "ヨックモック",
+        "サンクデリス",
+        "クッキー 詰め合わせ",
+        "お歳暮 ギフト",
+        "洋菓子 個包装",
+        "手土産 お菓子"
+      ],
+      "related_needs": [
+        "コーヒー・紅茶のギフトセット",
+        "チョコレート詰め合わせ",
+        "他の価格帯の洋菓子ギフト",
+        "熨斗対応可能なギフト商品"
+      ],
+      "primary_score": 63.3,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 12.0,
+        "rating": 10.0,
+        "price": 10,
+        "images": 10,
+        "specificity": 6.3,
+        "trend_bonus": 4.0,
+        "rank": 100
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 90.3,
+      "lp_path": "products/gift/yokumoku-10000435/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/gift/yokumoku-10000435/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/yokumoku/cabinet/yokumoku_thumbnail/aw/10345986/delices40_26aw.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/yokumoku/cabinet/yokumoku_page/10325416/10948104/cinq_26aw_t01.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/yokumoku/cabinet/yokumoku_page/10325416/10948104/cinq_26aw_t2.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "ヨックモック サンク デリス 5種40個入りの特長と内容を確認",
+      "status": "published",
+      "created_at": "2026-11-27T10:02:00+09:00",
+      "updated_at": "2026-11-27T10:02:00+09:00",
+      "last_checked_at": "2026-11-27T10:02:00+09:00",
+      "fail_count": 0,
+      "voice": "暮らしの場面から入る描写調",
+      "auto_fixes": 6,
+      "related": [
+        "../../../products/gift/kihachi-10000007/",
+        "../../../products/gift/royce-10000483/",
+        "../../../products/gift/henri-charpentier-10002080/",
+        "../../../products/food/1129saisonb-10000102/"
+      ],
+      "review_changes": 1
+    },
+    "niziiro-store:10000663": {
+      "item_code": "niziiro-store:10000663",
+      "slug": "niziiro-store-10000663",
+      "item_name": "磁性鍋 両手鍋M 両手鍋S 両手鍋L 小判 日本製 電子レンジ専用調理鍋 調理鍋 電子レンジ 耐熱陶器 料理 レンジ 加圧 スチーム加熱 遠赤外線料理 電磁波 マイクロ波 時短 調理 省エネ 鍋 送料無料",
+      "display_name": "磁性鍋 両手鍋 小判 日本製 電子レンジ専用調理鍋",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00td8do.dogkmedb.g00td8do.dogknd6a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniziiro-store%2Fmt-b002hm7a52%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fniziiro-store%2Fi%2F10000663%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00td8do.dogkmedb.g00td8do.dogknd6a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniziiro-store%2Fmt-b002hm7a52%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "kitchen",
+      "category_label": "キッチン",
+      "keyword": "",
+      "product_type": "電子レンジ専用調理鍋",
+      "keywords": [
+        "磁性鍋",
+        "電子レンジ調理鍋",
+        "耐熱陶器",
+        "常滑焼",
+        "レンジ加圧"
+      ],
+      "related_needs": [
+        "電子レンジ用炊飯器",
+        "シリコンスチーマー",
+        "耐熱ガラス容器",
+        "レンジ用調理器具"
+      ],
+      "primary_score": 62.0,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 8.2,
+        "rating": 8.8,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 5.0,
+        "rank": 96
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 8,
+        "lp_fit": 4
+      },
+      "final_score": 86.0,
+      "lp_path": "products/kitchen/niziiro-store-10000663/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/kitchen/niziiro-store-10000663/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/niziiro-store/cabinet/06791140/06905159/09239424/mt-b002hm7a52_b1.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/niziiro-store/cabinet/06791140/06905159/09239424/mt-b002hm7a52_b2.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "磁性鍋 電子レンジ専用調理鍋の仕様と特徴を整理",
+      "status": "published",
+      "created_at": "2026-11-27T10:02:21+09:00",
+      "updated_at": "2026-11-27T10:02:21+09:00",
+      "last_checked_at": "2026-11-27T10:02:21+09:00",
+      "fail_count": 0,
+      "voice": "要点先出しの簡潔調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/kitchen/latuna-10000000/",
+        "../../../products/kitchen/roomy-10015766/",
+        "../../../products/kitchen/scope-10005932/",
+        "../../../products/kitchen/plywood-10017400/"
+      ],
+      "review_changes": 2
+    },
+    "good-luckbin:10000355": {
+      "item_code": "good-luckbin:10000355",
+      "slug": "good-luckbin-10000355",
+      "item_name": "【5日間限定！25%OFFクーポン対象とポイント8倍で実質3,680円！11/30 23:59まで】コカ・コーラ コーヒー ジョージア ブラック ラベルレス 500ml ペットボトル 24本入り×2ケース【送料無料】",
+      "display_name": "コカ・コーラ コーヒー ジョージア ブラック ラベルレス 500ml",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u60uo.dogkm0f3.g00u60uo.dogkn274/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-luckbin%2Fgajcbkless5p-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgood-luckbin%2Fi%2F10000355%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u60uo.dogkm0f3.g00u60uo.dogkn274/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgood-luckbin%2Fgajcbkless5p-2%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "food",
+      "category_label": "食品・飲料",
+      "keyword": "",
+      "product_type": "ペットボトルコーヒー",
+      "keywords": [
+        "ジョージア",
+        "ブラック",
+        "ラベルレス",
+        "コーヒー",
+        "500ml",
+        "まとめ買い"
+      ],
+      "related_needs": [
+        "お茶のペットボトルまとめ買い",
+        "炭酸水の箱買い",
+        "インスタントコーヒー"
+      ],
+      "primary_score": 61.4,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 7.8,
+        "rating": 8.6,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 5.0,
+        "rank": 74
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 87.4,
+      "lp_path": "products/food/good-luckbin-10000355/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/food/good-luckbin-10000355/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/good-luckbin/cabinet/product_image/1126coupon25/gajcbkless5p-2.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/good-luckbin/cabinet/coffee/coffee-pop/imgrc0122524303.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/good-luckbin/cabinet/goannai-1.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "ジョージア ブラック ラベルレス 500ml 48本の仕様と特徴",
+      "status": "published",
+      "created_at": "2026-11-27T10:02:41+09:00",
+      "updated_at": "2026-11-27T10:04:44+09:00",
+      "last_checked_at": "2026-11-27T10:02:41+09:00",
+      "fail_count": 0,
+      "voice": "暮らしの場面から入る描写調",
+      "auto_fixes": 1,
+      "related": [
+        "../../../products/food/lifedrinkcompany-10000012/",
+        "../../../products/food/irisplaza-r-10158174/",
+        "../../../products/food/kenkocom-12079545/",
+        "../../../products/food/d-rink-hokkaido-10000139/"
+      ],
+      "review_changes": 2
+    },
+    "ulike-store:10000046": {
+      "item_code": "ulike-store:10000046",
+      "slug": "ulike-store-10000046",
+      "item_name": "＼本日ポイント5倍＋豪華特典／【40%OFFクーポンで69,800円 → 41,880円+条件達成で合計3,000P！11/19〜11/30】＜新発売＞ Ulike 公式 Air 10 Max IPL 光美容器 2026年モデル ユーライク 脱毛器 脱毛 サファイア美容器 冷却機能 USHRモード 顔 ワキ ヒゲ 自宅ケア 女性",
+      "display_name": "Ulike Air 10 Max IPL 光美容器 2026年モデル",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u7u0o.dogkmd7f.g00u7u0o.dogkn153/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulike-store%2Fair10-ui20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulike-store%2Fi%2F10000046%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u7u0o.dogkmd7f.g00u7u0o.dogkn153/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulike-store%2Fair10-ui20%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "beauty",
+      "category_label": "美容・スキンケア",
+      "keyword": "",
+      "product_type": "光美容器",
+      "keywords": [
+        "Ulike",
+        "Air 10 Max",
+        "光美容器",
+        "脱毛器",
+        "サファイア冷感",
+        "ユーライク"
+      ],
+      "related_needs": [
+        "シェービング用カミソリ",
+        "保湿用化粧水",
+        "ボディクリーム",
+        "日焼け止め"
+      ],
+      "primary_score": 60.8,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 13.7,
+        "rating": 8.1,
+        "price": 4,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 5.0,
+        "rank": 53
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 4
+      },
+      "final_score": 86.8,
+      "lp_path": "products/beauty/ulike-store-10000046/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/beauty/ulike-store-10000046/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/ulike-store/cabinet/kiritanimireisan/air10max_thumb_ma.jpg?_ex=128x128"
+      ],
+      "image_count": 1,
+      "title": "Ulike Air 10 Max 光美容器の特徴と仕様を解説",
+      "status": "published",
+      "created_at": "2026-11-27T10:03:00+09:00",
+      "updated_at": "2026-11-27T10:03:00+09:00",
+      "last_checked_at": "2026-11-27T10:03:00+09:00",
+      "fail_count": 0,
+      "voice": "落ち着いた解説調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/beauty/larocheposay-10000039/",
+        "../../../products/beauty/attenir-10000250/",
+        "../../../products/beauty/fancl-shop-10009046/",
+        "../../../products/beauty/attenir-10000252/"
+      ],
+      "review_changes": 1
+    },
+    "d-rink-hokkaido:10000139": {
+      "item_code": "d-rink-hokkaido:10000139",
+      "slug": "d-rink-hokkaido-10000139",
+      "item_name": "【5日間限定！25%OFFクーポン対象！11/30 23:59まで】コカ・コーラ お茶 綾鷹 濃い緑茶 ラベルレス 650ml ペットボトル 24本入り×2ケース【送料無料】",
+      "display_name": "コカ・コーラ お茶 綾鷹 濃い緑茶 ラベルレス 650ml ペットボトル",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uouuo.dogkmd8b.g00uouuo.dogkn335/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-rink-hokkaido%2Fayakoiless65p-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-rink-hokkaido%2Fi%2F10000139%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uouuo.dogkmd8b.g00uouuo.dogkn335/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-rink-hokkaido%2Fayakoiless65p-2%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "food",
+      "category_label": "食品・飲料",
+      "keyword": "",
+      "product_type": "緑茶",
+      "keywords": [
+        "綾鷹",
+        "濃い緑茶",
+        "ラベルレス",
+        "機能性表示食品",
+        "茶カテキン",
+        "まとめ買い"
+      ],
+      "related_needs": [
+        "ミネラルウォーター",
+        "無糖茶",
+        "炭酸水",
+        "コーヒー"
+      ],
+      "primary_score": 60.2,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 7.1,
+        "rating": 8.1,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 5.0,
+        "rank": 87
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 8,
+        "lp_fit": 4
+      },
+      "final_score": 84.2,
+      "lp_path": "products/food/d-rink-hokkaido-10000139/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/food/d-rink-hokkaido-10000139/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/d-rink-hokkaido/cabinet/drink-item/cha/cha-pop/imgrc0135691536.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/d-rink-hokkaido/cabinet/drink-item/cha/cha-pop/imgrc0135691534.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "綾鷹 濃い緑茶 ラベルレス 650ml 48本の特長と機能性",
+      "status": "published",
+      "created_at": "2026-11-27T10:03:21+09:00",
+      "updated_at": "2026-11-27T10:03:21+09:00",
+      "last_checked_at": "2026-11-27T10:03:21+09:00",
+      "fail_count": 0,
+      "voice": "暮らしの場面から入る描写調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/food/good-luckbin-10000355/",
+        "../../../products/food/sktadv-10001169/",
+        "../../../products/food/soukaidrink-10007430/",
+        "../../../products/food/irisplaza-r-10158174/"
+      ],
+      "review_changes": 3
+    },
+    "rakuten24:11342601": {
+      "item_code": "rakuten24:11342601",
+      "slug": "rakuten24-11342601",
+      "item_name": "さらさ 洗濯洗剤 液体 ほのかでやさしい柑橘系の香り 詰め替え 1490g(1490g×6セット)【さらさ】",
+      "display_name": "さらさ 洗濯洗剤 液体 ほのかでやさしい柑橘系の香り 詰め替え",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r136o.dogkmce2.g00r136o.dogknf66/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F612862%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11342601%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r136o.dogkmce2.g00r136o.dogknf66/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F612862%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "living",
+      "category_label": "生活雑貨・日用品",
+      "keyword": "",
+      "product_type": "洗濯用洗剤",
+      "keywords": [
+        "さらさ",
+        "洗濯洗剤",
+        "液体",
+        "柑橘系の香り",
+        "詰め替え",
+        "無添加"
+      ],
+      "related_needs": [
+        "柔軟剤",
+        "衣類用漂白剤",
+        "洗濯槽クリーナー",
+        "ハンガー"
+      ],
+      "primary_score": 61.0,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 7.6,
+        "rating": 8.4,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 85
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 9,
+        "lp_fit": 4
+      },
+      "final_score": 86.0,
+      "lp_path": "products/living/rakuten24-11342601/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/living/rakuten24-11342601/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/862/612862.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/862/612862-2.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/862/612862-3.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "さらさ 洗濯洗剤 柑橘系の香り 詰め替えの仕様と特徴",
+      "status": "published",
+      "created_at": "2026-11-27T10:03:46+09:00",
+      "updated_at": "2026-11-27T10:03:46+09:00",
+      "last_checked_at": "2026-11-27T10:03:46+09:00",
+      "fail_count": 0,
+      "voice": "落ち着いた解説調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/living/rakuten24-11279568/",
+        "../../../products/living/rakuten24-11200559/",
+        "../../../products/living/rakuten24-11163653/",
+        "../../../products/living/rakuten24-11128650/"
+      ],
+      "review_changes": 2
+    },
+    "anker:10002285": {
+      "item_code": "anker:10002285",
+      "slug": "anker-10002285",
+      "item_name": "【セール実施中 11/25まで】【超薄型】Anker Eufy (ユーフィ) Robot Vacuum Auto-Empty C10 (ロボット掃除機) 【自動ゴミ収集ステーション 伸縮サイドブラシ 毛絡み除去システム レーザーマッピング アプリ操作 落下防止 薄型 小型】",
+      "display_name": "Anker Eufy Robot Vacuum Auto-Empty C10",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.dogkmb2c.g00rr09o.dogkn6f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Ft2292%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10002285%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.dogkmb2c.g00rr09o.dogkn6f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Ft2292%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "appliances",
+      "category_label": "家電",
+      "keyword": "",
+      "product_type": "ロボット掃除機",
+      "keywords": [
+        "Anker",
+        "Eufy",
+        "ロボット掃除機",
+        "自動ゴミ収集",
+        "薄型",
+        "C10"
+      ],
+      "related_needs": [
+        "ハンディクリーナー",
+        "スティック掃除機",
+        "床面保護シート"
+      ],
+      "primary_score": 60.4,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 10.3,
+        "rating": 8.1,
+        "price": 7,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 43
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 87.4,
+      "lp_path": "products/appliances/anker-10002285/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/appliances/anker-10002285/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/t2292/t2292_sub_v3_1.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/t2292/t2292_sub_v2_2.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "Anker Eufy C10の仕様と特徴：薄型ロボット掃除機の機能",
+      "status": "published",
+      "created_at": "2026-11-27T10:04:06+09:00",
+      "updated_at": "2026-11-27T10:04:06+09:00",
+      "last_checked_at": "2026-11-27T10:04:06+09:00",
+      "fail_count": 0,
+      "voice": "落ち着いた解説調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/appliances/irobotstore-10000562/",
+        "../../../products/pc-smartphone/anker-10001908/",
+        "../../../products/appliances/hotch-potch-10017531/",
+        "../../../products/appliances/auc-risecreation-10004620/"
+      ],
+      "review_changes": 3
+    },
+    "tansu:10056627": {
+      "item_code": "tansu:10056627",
+      "slug": "tansu-10056627",
+      "item_name": "【正午~5%引クーポン】 《最安挑戦中》RENEW 宮棚付きベッド 高さ調節 3段階 コンセント付き キング対応 シングルベッド セミダブルベッド ダブルベッド シングル セミダブル ダブル ベッドフレーム すのこベッド すのこベット ベット ベットフレーム 宮付き ベッド",
+      "display_name": "宮棚付きベッド 高さ調節 3段階 コンセント付き キング対応 シングル セミダブル ダブル",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.dogkm346.g00ppglo.dogkn969/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F49600140%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10056627%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.dogkm346.g00ppglo.dogkn969/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F49600140%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "interior",
+      "category_label": "収納・インテリア",
+      "keyword": "",
+      "product_type": "宮棚付きすのこベッド",
+      "keywords": [
+        "すのこベッド",
+        "宮棚付きベッド",
+        "高さ調節",
+        "コンセント付き",
+        "キング対応"
+      ],
+      "related_needs": [
+        "ベッドマットレス",
+        "敷布団",
+        "枕",
+        "ベッド下収納ボックス"
+      ],
+      "primary_score": 60.4,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 9.1,
+        "rating": 6.3,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 4.0,
+        "rank": 84
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 87.4,
+      "lp_path": "products/interior/tansu-10056627/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/interior/tansu-10056627/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/curtain/49600140_10rank.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/00435733/49600140_renewa.jpg?_ex=128x128"
+      ],
+      "image_count": 2,
+      "title": "高さ調節と宮棚付きすのこベッドの特徴を整理",
+      "status": "published",
+      "created_at": "2026-11-27T10:04:25+09:00",
+      "updated_at": "2026-11-27T10:04:25+09:00",
+      "last_checked_at": "2026-11-27T10:04:25+09:00",
+      "fail_count": 0,
+      "voice": "生活者目線の語りかけ調",
+      "auto_fixes": 0,
+      "related": [
+        "../../../products/interior/eunicedress-10001862/",
+        "../../../products/interior/exception5251-10000379/",
+        "../../../products/interior/eunicedress-10001812/",
+        "../../../products/interior/tansu-10043682/"
+      ],
+      "review_changes": 1
+    },
+    "masuyone:10000975": {
+      "item_code": "masuyone:10000975",
+      "slug": "masuyone-10000975",
+      "item_name": "本日23:59までP5倍！年末早割クーポンで5,000円OFF★11,800円～ お歳暮 ギフト プレゼント【特大5Lサイズ/棒肉100％】プレミアム生ずわいがに棒ポーション900g(450g×2p) or 1.8kg！ カニしゃぶ 刺身 かに刺し ズワイガニ かに カニ 蟹 むき身 送料無料 BLACK FRIDAY",
+      "display_name": "プレミアム生ずわいがに棒ポーション900g",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pmn5o.dogkmf85.g00pmn5o.dogkn242/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmasuyone%2Fy-5p1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmasuyone%2Fi%2F10000975%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pmn5o.dogkmf85.g00pmn5o.dogkn242/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmasuyone%2Fy-5p1000%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "category": "food",
+      "category_label": "食品・飲料",
+      "keyword": "",
+      "product_type": "生ずわいがに棒ポーション",
+      "keywords": [
+        "ずわいがに",
+        "ポーション",
+        "かにしゃぶ",
+        "むき身",
+        "お取り寄せグルメ"
+      ],
+      "related_needs": [
+        "カニ用だし汁",
+        "締め用の雑炊用米",
+        "ポン酢・カニ酢"
+      ],
+      "primary_score": 59.2,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 10.2,
+        "rating": 7.0,
+        "price": 7,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 5.0,
+        "rank": 97
+      },
+      "ai_scores": {
+        "problem_solving": 12,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 85.2,
+      "lp_path": "products/food/masuyone-10000975/index.html",
+      "lp_url": "https://aisakahikaru.github.io/aisaka/products/food/masuyone-10000975/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/img4/y-5p1000-kago-241105.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/goods/y-5p1000/y-5p1000_03_.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/goods/y-5p1000/y-5p1000_09.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "プレミアム生ずわいがに棒ポーション900gの特徴と購入前の確認点",
+      "status": "published",
+      "created_at": "2026-11-27T10:04:44+09:00",
+      "updated_at": "2026-11-27T10:04:44+09:00",
+      "last_checked_at": "2026-11-27T10:04:44+09:00",
+      "fail_count": 0,
+      "voice": "要点先出しの簡潔調",
+      "auto_fixes": 2,
+      "related": [
+        "../../../products/food/morigen-10000010/",
+        "../../../products/food/kouragumi-10000004/",
+        "../../../products/food/yonekyu-10002024/",
+        "../../../products/food/sanju-10000031/"
+      ],
+      "review_changes": 2
     }
   },
   "state": {
     "next_category": 0,
     "next_ranking_source": 0,
     "gemini_calls": {
-      "2026-11-20": 33,
       "2026-11-21": 30,
       "2026-11-22": 30,
       "2026-11-23": 33,
       "2026-11-24": 31,
       "2026-11-25": 33,
-      "2026-11-26": 30
+      "2026-11-26": 30,
+      "2026-11-27": 31
     }
   }
 }
