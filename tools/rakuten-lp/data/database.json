@@ -4246,8 +4246,8 @@
       "title": "割れチョコ ミックス 12種｜原材料・保存方法・購入前の確認点",
       "status": "published",
       "created_at": "2026-10-01T10:04:45+09:00",
-      "updated_at": "2026-11-27T10:04:45+09:00",
-      "last_checked_at": "2026-10-20T10:00:20+09:00",
+      "updated_at": "2026-11-28T10:00:03+09:00",
+      "last_checked_at": "2026-11-28T10:00:03+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 12,
@@ -16935,7 +16935,7 @@
       "item_name": "ポイント最大24倍★10/20 00:00~ 10/21 23:59★【公式】キールズ レチノール美容液 30mL 50mL 10mL セット kiehl's kiehls レチノール ギフト 毛穴 しわ たるみ ハリ 保湿 角質 低刺激 クリーム スキンケア セラミド 肌荒れ ニキビ ナイアシンアミド 送料無料",
       "display_name": "キールズ レチノール美容液",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u02po.dogkm803.g00u02po.dogknb0c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkiehls%2Fww0124kie%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkiehls%2Fi%2F10000083%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u02po.dogkm803.g00u02po.dogknb0c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkiehls%2Fww0124kie%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u02po.dogkm803.g00u02po.dogknb0c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkiehls%2Fww0124kie%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkiehls%2Fi%2F10000083%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "beauty",
       "category_label": "美容・スキンケア",
       "keyword": "",
@@ -16980,8 +16980,8 @@
       "title": "キールズ レチノール美容液｜容量・セット内容の確認ポイント",
       "status": "published",
       "created_at": "2026-10-20T10:02:58+09:00",
-      "updated_at": "2026-11-26T10:04:19+09:00",
-      "last_checked_at": "2026-10-20T10:02:58+09:00",
+      "updated_at": "2026-11-28T10:00:05+09:00",
+      "last_checked_at": "2026-11-28T10:00:05+09:00",
       "fail_count": 0,
       "voice": "落ち着いた解説調",
       "auto_fixes": 0,
@@ -16991,7 +16991,9 @@
         "../../../products/beauty/larocheposay-10000116/",
         "../../../products/beauty/cetaphil-official-gkk-10000127/"
       ],
-      "review_changes": 4
+      "review_changes": 4,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "brandshiseido:10000016": {
       "item_code": "brandshiseido:10000016",
@@ -16999,7 +17001,7 @@
       "item_name": "【SHISEIDO 公式】エッセンス スキングロウ ファンデーション ☆ | SHISEIDO 資生堂 シセイドウ | ファンデーション ファンデ 美容液ファンデ 美容液ファンデーション スキンケアエッセンス",
       "display_name": "エッセンス スキングロウ ファンデーション",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00umpto.dogkmb01.g00umpto.dogkn55e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrandshiseido%2Fsmu0021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrandshiseido%2Fi%2F10000016%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00umpto.dogkmb01.g00umpto.dogkn55e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrandshiseido%2Fsmu0021%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00umpto.dogkmb01.g00umpto.dogkn55e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrandshiseido%2Fsmu0021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrandshiseido%2Fi%2F10000016%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "beauty",
       "category_label": "美容・スキンケア",
       "keyword": "",
@@ -17043,8 +17045,8 @@
       "title": "SHISEIDO エッセンス スキングロウ ファンデーション｜特徴・色・使い方",
       "status": "published",
       "created_at": "2026-10-20T10:04:20+09:00",
-      "updated_at": "2026-11-25T10:05:31+09:00",
-      "last_checked_at": "2026-10-20T10:04:20+09:00",
+      "updated_at": "2026-11-28T10:00:06+09:00",
+      "last_checked_at": "2026-11-28T10:00:06+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 0,
@@ -17054,7 +17056,9 @@
         "../../../products/beauty/sk-ii-10003757/",
         "../../../products/beauty/attenir-10000250/"
       ],
-      "review_changes": 4
+      "review_changes": 4,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "fujifilm-h:10000279": {
       "item_code": "fujifilm-h:10000279",
@@ -17062,7 +17066,7 @@
       "item_name": "アスタリフト ホワイト ジェリー アクアリスタ 60g （本品/レフィル）（全3種）[医薬部外品]【FUJIFILM 公式】|美容液 導入美容液 ブースター セラミド アスタキサンチン ASTALIFT スキンケア 化粧品 コスメ ギフト",
       "display_name": "アスタリフト ホワイト ジェリー アクアリスタ 60g",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00trl5o.dogkme3a.g00trl5o.dogkn6d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujifilm-h%2F16648452%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujifilm-h%2Fi%2F10000279%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00trl5o.dogkme3a.g00trl5o.dogkn6d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujifilm-h%2F16648452%2F&rafcid=wsc_i_ra_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00trl5o.dogkme3a.g00trl5o.dogkn6d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujifilm-h%2F16648452%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujifilm-h%2Fi%2F10000279%2F&rafcid=wsc_i_is_b15e91aa-1ad4-46cc-bfe8-d22fd6af9080",
       "category": "beauty",
       "category_label": "美容・スキンケア",
       "keyword": "",
@@ -17108,8 +17112,8 @@
       "title": "アスタリフト ホワイト ジェリー アクアリスタ｜成分・内容量を確認",
       "status": "published",
       "created_at": "2026-10-20T10:05:47+09:00",
-      "updated_at": "2026-11-06T10:06:48+09:00",
-      "last_checked_at": "2026-10-20T10:05:47+09:00",
+      "updated_at": "2026-11-28T10:00:07+09:00",
+      "last_checked_at": "2026-11-28T10:00:07+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 0,
@@ -17119,7 +17123,9 @@
         "../../../products/beauty/yayoi-cosme-10014729/",
         "../../../products/beauty/aestura-japan-10000007/"
       ],
-      "review_changes": 3
+      "review_changes": 3,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "netbaby:10023241": {
       "item_code": "netbaby:10023241",
@@ -34299,13 +34305,13 @@
     "next_category": 0,
     "next_ranking_source": 0,
     "gemini_calls": {
-      "2026-11-21": 30,
       "2026-11-22": 30,
       "2026-11-23": 33,
       "2026-11-24": 31,
       "2026-11-25": 33,
       "2026-11-26": 30,
-      "2026-11-27": 31
+      "2026-11-27": 31,
+      "2026-11-28": 0
     }
   }
 }
